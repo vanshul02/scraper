@@ -1,0 +1,4666 @@
+{
+    "total_restaurants": 228,
+    "restaurants_data": {
+        "01_Chef_Recipe": {
+            "restaurant_name": "Chef Recipe",
+            "latitude_longitude": {
+                "latitude": 1.370720766,
+                "longitude": 103.8570244
+            },
+            "cuisine": [
+                "Western",
+                "Steak",
+                "Pasta",
+                "Chicken"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.581,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32JGJKELFNULJ/hero/ac98d355-0aa8-45a6-86eb-c721565f3452__store_cover__2024__03__28__06__56__47.webp",
+            "has_promo": true,
+            "id": "4-C32JGJKELFNULJ",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": [
+                "S$3 off Delivery"
+            ]
+        },
+        "01_Hajime_Tonkatsu__Ramen": {
+            "restaurant_name": "Hajime Tonkatsu & Ramen",
+            "latitude_longitude": {
+                "latitude": 1.3650218,
+                "longitude": 103.86522294031816
+            },
+            "cuisine": [
+                "Japanese",
+                "Noodles"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.133,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDHN6JHE62UJX/hero/84401f42418044b5b27331b6d4cb21bc_1587627587632047181.webp",
+            "has_promo": false,
+            "id": "4-CZDHN6JHE62UJX",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Waa_Cow": {
+            "restaurant_name": "Waa Cow!",
+            "latitude_longitude": {
+                "latitude": 1.364995,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Japanese",
+                "Bento",
+                "Healthy",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.147,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32XJJWFVYAAJ2/hero/8f456b25897c49e78a1a53c73b57f56b_1678090928204716244.webp",
+            "has_promo": false,
+            "id": "4-C32XJJWFVYAAJ2",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Tian_Le_Japanese_and_Korea_Cuisine": {
+            "restaurant_name": "Tian Le Japanese and Korea Cuisine",
+            "latitude_longitude": {
+                "latitude": 1.3706370730706774,
+                "longitude": 103.8570588020504
+            },
+            "cuisine": [
+                "Japanese Cuisine",
+                "Korean cuisine",
+                "Ramen"
+            ],
+            "rating": 3.5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.57,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3MALTDKEPVHV6/hero/eae99f283b1a47718ba55c326459c374_1656322666666421487.webp",
+            "has_promo": false,
+            "id": "4-C3MALTDKEPVHV6",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Teaholiaoz": {
+            "restaurant_name": "Teaholiaoz",
+            "latitude_longitude": {
+                "latitude": 1.365453,
+                "longitude": 103.852948
+            },
+            "cuisine": [
+                "Drinks & Beverages",
+                "Bubble Tea",
+                "Snack"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.541,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C23BWCNZAFXWGE/hero/27a703f3d67a4410a5cd9f0130f50ace_1654752806774825965.webp",
+            "has_promo": false,
+            "id": "4-C23BWCNZAFXWGE",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Jia_Jia_Vegetarian": {
+            "restaurant_name": "Jia Jia Vegetarian",
+            "latitude_longitude": {
+                "latitude": 1.3627231372562347,
+                "longitude": 103.85465272439849
+            },
+            "cuisine": [
+                "Chinese",
+                "Convenience",
+                "Healthy",
+                "Vegetarian Friendly",
+                "Zi Char"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.121,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6AXEVDJSANALA/hero/f72ea2ecdf3b472da14578279932938e_1702019649007249161.webp",
+            "has_promo": false,
+            "id": "4-C6AXEVDJSANALA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "5340_Pow_Sing_Kitchen": {
+            "restaurant_name": "Pow Sing Kitchen",
+            "latitude_longitude": {
+                "latitude": 1.3635333333333333,
+                "longitude": 103.86568751665956
+            },
+            "cuisine": [
+                "Bento",
+                "Seafood",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.301,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD09030/hero/upload-photo-Hero_Photo_08d1031cdb96424cb2cce06acc4ed072_1554374127632206105.webp",
+            "has_promo": false,
+            "id": "SGDD09030",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_Zhong_Hua_Guo_Wang": {
+            "restaurant_name": "Zhong Hua Guo Wang",
+            "latitude_longitude": {
+                "latitude": 1.3728816666666668,
+                "longitude": 103.8552458
+            },
+            "cuisine": [
+                "Mala",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 3.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.971,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD09269/hero/5de5c3ee2211437589eab256d870c8e2_1568967013425555038.webp",
+            "has_promo": true,
+            "id": "SGDD09269",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": [
+                "15% off"
+            ]
+        },
+        "01_219_Sarawak_Kolo_Mee": {
+            "restaurant_name": "219 Sarawak Kolo Mee",
+            "latitude_longitude": {
+                "latitude": 1.3733433786336522,
+                "longitude": 103.85446517094185
+            },
+            "cuisine": [
+                "Noodles",
+                "Local & Malaysian",
+                "Breakfast & Brunch",
+                "Healthy",
+                "Hawker"
+            ],
+            "rating": 3.8,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.115,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4JUHB4YAB23EE/hero/a96faece542447aeb5a43d27e6dc66e4_1691152086119376609.webp",
+            "has_promo": true,
+            "id": "4-C4JUHB4YAB23EE",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": [
+                "Up to 30% Off",
+                "15% off"
+            ]
+        },
+        "01_Sinful_Roast": {
+            "restaurant_name": "Sinful Roast \u65b0\u4e00\u4ee3",
+            "latitude_longitude": {
+                "latitude": 1.373331,
+                "longitude": 103.854382
+            },
+            "cuisine": [
+                "BBQ & Grill",
+                "Local & Malaysian",
+                "Chinese"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.121,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4JZL6LJLYWGAT/hero/66497c12432d43f9bf982e0b72c6ebdd_1697529117722836951.webp",
+            "has_promo": false,
+            "id": "4-C4JZL6LJLYWGAT",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_The_Kind_Bowl": {
+            "restaurant_name": "The Kind Bowl",
+            "latitude_longitude": {
+                "latitude": 1.3649954,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Noodles",
+                "Vegan",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.147,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3KTDEWEJJLYVN/hero/853fd45e6f9348dfa33113c1cca84e76_1653034043228642326.webp",
+            "has_promo": false,
+            "id": "4-C3KTDEWEJJLYVN",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Kimly_Dim_Sum": {
+            "restaurant_name": "Kimly Dim Sum",
+            "latitude_longitude": {
+                "latitude": 1.370477863,
+                "longitude": 103.8570308
+            },
+            "cuisine": [
+                "Chinese",
+                "Dim Sum",
+                "Snack"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.556,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C36EJBV2EFU1GA/hero/af99a3d9446943b1b3320bb63f74d104_1678673334085430446.webp",
+            "has_promo": true,
+            "id": "4-C36EJBV2EFU1GA",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Lai_Lai_Xing_Fishball_Noodle": {
+            "restaurant_name": "Lai Lai Xing Fishball Noodle",
+            "latitude_longitude": {
+                "latitude": 1.3705913,
+                "longitude": 103.85704195
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.473,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZCACALEGYNTJT/hero/55ddbc9c55ba4bd9b761a8a9a9f7a1df_1587722157615527578.webp",
+            "has_promo": false,
+            "id": "4-CZCACALEGYNTJT",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_JB_Seafood": {
+            "restaurant_name": "JB Seafood",
+            "latitude_longitude": {
+                "latitude": 1.365412,
+                "longitude": 103.848967
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Seafood"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.443,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2NYUAK3GCMCNJ/hero/bbda5284fafd41e08050949c2cba6f72_1680336401476199548.webp",
+            "has_promo": false,
+            "id": "4-C2NYUAK3GCMCNJ",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Apollo_Coffee_Bar": {
+            "restaurant_name": "Apollo Coffee Bar",
+            "latitude_longitude": {
+                "latitude": 1.363645,
+                "longitude": 103.865479
+            },
+            "cuisine": [
+                "Drinks & Beverages",
+                "Coffee & Tea",
+                "Breakfast & Brunch"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.32,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDTV6TCCACFL6/hero/363528fbca1740149554a1395c8dc041_1624940629797741392.webp",
+            "has_promo": false,
+            "id": "4-CZDTV6TCCACFL6",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_Fong_Hup": {
+            "restaurant_name": "Fong Hup",
+            "latitude_longitude": {
+                "latitude": 1.37258573259292,
+                "longitude": 103.855446574049
+            },
+            "cuisine": [
+                "Chinese",
+                "Seafood",
+                "Healthy"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.016,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C35TLNAFNJDCKA/hero/aae68808967d40ea9491ea16356028f3_1688534160349695715.webp",
+            "has_promo": false,
+            "id": "4-C35TLNAFNJDCKA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Fish__Co": {
+            "restaurant_name": "Fish & Co.",
+            "latitude_longitude": {
+                "latitude": 1.3692229595301626,
+                "longitude": 103.84892428502951
+            },
+            "cuisine": [
+                "Western",
+                "Seafood",
+                "Halal",
+                "Pasta",
+                "Pizza"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.428,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CY3KFA5GJLJJBA/hero/97ca76db76504f68aede52f28e6095fd_1595932025638323389.webp",
+            "has_promo": true,
+            "id": "4-CY3KFA5GJLJJBA",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_AW": {
+            "restaurant_name": "A&W",
+            "latitude_longitude": {
+                "latitude": 1.369485889,
+                "longitude": 103.8490219
+            },
+            "cuisine": [
+                "Burgers",
+                "Western",
+                "Halal",
+                "Fast Food"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.115,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C23BE36TGGEKKA/hero/9252e4e22f3348b38f37156131779d9e_1632132781085758362.webp",
+            "has_promo": false,
+            "id": "4-C23BE36TGGEKKA",
+            "estimated_delivery_fee": "S$3.70",
+            "promo_list": []
+        },
+        "01_Orh_Kee": {
+            "restaurant_name": "Orh Kee",
+            "latitude_longitude": {
+                "latitude": 1.3639351,
+                "longitude": 103.86534363366096
+            },
+            "cuisine": [
+                "Noodles"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.176,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZEKEUMDJE2CJA/hero/a37f12f397fa43b6aeef6f6eb78b2117_1683513927433820668.webp",
+            "has_promo": false,
+            "id": "4-CZEKEUMDJE2CJA",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Chops_Sear": {
+            "restaurant_name": "Chops & Sear",
+            "latitude_longitude": {
+                "latitude": 1.372199923,
+                "longitude": 103.855571
+            },
+            "cuisine": [
+                "Western",
+                "Burger",
+                "Pasta",
+                "Fried Chicken",
+                "Snack"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.893,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C35KNECZGPKDKE/hero/40579bbe-2c17-4915-9216-4e3600cccb4b__store_cover__2023__02__27__03__44__51.webp",
+            "has_promo": false,
+            "id": "4-C35KNECZGPKDKE",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Kian_Seng_Seafood_Restaurant": {
+            "restaurant_name": "Kian Seng Seafood Restaurant",
+            "latitude_longitude": {
+                "latitude": 1.3585821,
+                "longitude": 103.854828
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Seafood",
+                "BBQ & Grill"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.497,
+            "image_link": "https://food-cms.grab.com/Merchants/4-CZLGCCE2GANVC6/photos_optimized/8624698c6e2e42369ddbc5e0d0e7ea82_1594612705166875103.jpeg",
+            "has_promo": false,
+            "id": "4-CZLGCCE2GANVC6",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Sushi_GO": {
+            "restaurant_name": "Sushi-GO",
+            "latitude_longitude": {
+                "latitude": 1.369345529,
+                "longitude": 103.8489837
+            },
+            "cuisine": [
+                "Sushi",
+                "Seafood",
+                "Bento",
+                "Japanese"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.995,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3WCLEDJL2VKFA/hero/06d64a31c13540048601d92493678c88_1666258307573234200.webp",
+            "has_promo": false,
+            "id": "4-C3WCLEDJL2VKFA",
+            "estimated_delivery_fee": "S$3.60",
+            "promo_list": []
+        },
+        "01_Mao_You_Sarawak_Kolomee_and_Laksa": {
+            "restaurant_name": "Mao You Sarawak Kolomee and Laksa",
+            "latitude_longitude": {
+                "latitude": 1.36813060001,
+                "longitude": 103.851486
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Noodles",
+                "Chinese"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.196,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32XKFDANX22HA/hero/3d547d5200a44af6b8e6a69c6769fd14_1671449460852694010.webp",
+            "has_promo": false,
+            "id": "4-C32XKFDANX22HA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_iTEA": {
+            "restaurant_name": "iTEA",
+            "latitude_longitude": {
+                "latitude": 1.37348088630844,
+                "longitude": 103.85433125397
+            },
+            "cuisine": [
+                "Drinks & Beverages",
+                "Coffee & Tea",
+                "Bubble Tea"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.061,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C25ZGLCVN6MYWE/logo/6c097801cffa4bad8728736f9da66a4f_1637633900267518431.webp",
+            "has_promo": true,
+            "id": "4-C25ZGLCVN6MYWE",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_The_Acai_Collective": {
+            "restaurant_name": "The Acai Collective",
+            "latitude_longitude": {
+                "latitude": 1.364960176126144,
+                "longitude": 103.8652568
+            },
+            "cuisine": [
+                "Healthy"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.125,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYMUL4NCGVJVHE/hero/e441f6be12434af69c90dc594577e25a_1560393196769709298.webp",
+            "has_promo": false,
+            "id": "4-CYMUL4NCGVJVHE",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_The_Pine_Garden": {
+            "restaurant_name": "The Pine Garden",
+            "latitude_longitude": {
+                "latitude": 1.372766,
+                "longitude": 103.855641
+            },
+            "cuisine": [
+                "Dessert"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.992,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C25BAECGDF6XET/hero/91d6005e0f0f447e8f5d27f96df6f24f_1636108360694309954.webp",
+            "has_promo": true,
+            "id": "4-C25BAECGDF6XET",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Sin_Xiang_Kee_Soup_Porridge_Noodle_Braised": {
+            "restaurant_name": "Sin Xiang Kee Soup/Porridge/Noodle/Braised",
+            "latitude_longitude": {
+                "latitude": 1.365206416524377,
+                "longitude": 103.84911223103583
+            },
+            "cuisine": [
+                "Japanese",
+                "Fried Chicken",
+                "Seafood"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.56,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4DJSGMTATNFAJ/hero/6dfac9a85aeb40d8b544b16cf1f7796c_1715070406995595790.webp",
+            "has_promo": true,
+            "id": "4-C4DJSGMTATNFAJ",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": [
+                "10% off"
+            ]
+        },
+        "01_The_Warung": {
+            "restaurant_name": "The Warung",
+            "latitude_longitude": {
+                "latitude": 1.364382534,
+                "longitude": 103.866276
+            },
+            "cuisine": [
+                "Indonesian",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.106,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UTL3W3BED3JE/hero/ca242fd38e8b4424b1be767436b70f8d_1623056679217502996.webp",
+            "has_promo": false,
+            "id": "4-C2UTL3W3BED3JE",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Shamiana_Express": {
+            "restaurant_name": "Shamiana Express",
+            "latitude_longitude": {
+                "latitude": 1.365272,
+                "longitude": 103.865819
+            },
+            "cuisine": [
+                "Indian",
+                "Chinese",
+                "Seafood"
+            ],
+            "rating": 3.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.281,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2LCJYJBTBM3RJ/hero/a6e40e8933af481ca18d7dac7e6ec721_1625298474825625239.webp",
+            "has_promo": false,
+            "id": "4-C2LCJYJBTBM3RJ",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "1491_Hai_Zhong_Bao_Live_Seafood": {
+            "restaurant_name": "Hai Zhong Bao Live Seafood",
+            "latitude_longitude": {
+                "latitude": 1.36798,
+                "longitude": 103.8511145
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Seafood"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.118,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD08476/hero/upload-photo-Hero_Photo_1b575816a6c84f18bd197ffdd8e380f1_1554975798085944745.webp",
+            "has_promo": false,
+            "id": "SGDD08476",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_JU_Signatures": {
+            "restaurant_name": "JU Signatures",
+            "latitude_longitude": {
+                "latitude": 1.365,
+                "longitude": 103.86552
+            },
+            "cuisine": [
+                "Chinese",
+                "Dim Sum",
+                "Seafood"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.147,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3TJT6NGFAWJAX/hero/4d33e079d6284d0fbde57fdb1ff242ae_1695457902361859165.webp",
+            "has_promo": false,
+            "id": "4-C3TJT6NGFAWJAX",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_DRubinahAMK_Pte_Ltd": {
+            "restaurant_name": "D'Rubinah@AMK Pte Ltd",
+            "latitude_longitude": {
+                "latitude": 1.36418182900165,
+                "longitude": 103.849288954284
+            },
+            "cuisine": [
+                "Indian",
+                "Drinks & Beverages",
+                "Coffee & Tea",
+                "Halal"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.525,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C33WENXECJJUKE/hero/6ddae885d75a406eae29559feb8193ed_1673323284220182768.webp",
+            "has_promo": false,
+            "id": "4-C33WENXECJJUKE",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_chao_zhou_teochew_fish_soup": {
+            "restaurant_name": "Chao Zhou Teochew Fish Soup",
+            "latitude_longitude": {
+                "latitude": 1.3617752499969242,
+                "longitude": 103.85208450401069
+            },
+            "cuisine": [
+                "Chinese",
+                "Porridge",
+                "Seafood"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6KUSCJXNZJDV6/hero/5cbe87dd-1b8a-4677-8003-4ec64799158c__store_cover__2024__04__22__06__24__54.webp",
+            "has_promo": true,
+            "id": "4-C6KUSCJXNZJDV6",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": [
+                "10% off",
+                "S$2 off Delivery"
+            ]
+        },
+        "5439_iSTEAKS": {
+            "restaurant_name": "iSTEAKS",
+            "latitude_longitude": {
+                "latitude": 1.3650018,
+                "longitude": 103.8652615
+            },
+            "cuisine": [
+                "Pasta",
+                "Steak",
+                "Western"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.133,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD09873/hero/c0d733c6cf6d4f788e7002354da346e2_1650348463907765908.webp",
+            "has_promo": false,
+            "id": "SGDD09873",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Mixue": {
+            "restaurant_name": "Mixue",
+            "latitude_longitude": {
+                "latitude": 1.3646311215285445,
+                "longitude": 103.8657977827116
+            },
+            "cuisine": [
+                "Bubble Tea",
+                "Ice Cream",
+                "Drinks & Beverages"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.278,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6MHVN2HCYC2C2/hero/9fb8b0faf12742819c84651e69adab1d_1716794004879385157.webp",
+            "has_promo": true,
+            "id": "4-C6MHVN2HCYC2C2",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": [
+                "Any 6 get S$4.20 off"
+            ]
+        },
+        "01_Jian_Zao_Ipoh_Curry_Noodles": {
+            "restaurant_name": "Jian Zao Ipoh Curry Noodles",
+            "latitude_longitude": {
+                "latitude": 1.36177524999692,
+                "longitude": 103.852084504011
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C23WE65FGGCAME/hero/6d233049e39849378e2d29f66784c0a5_1633327365454030654.webp",
+            "has_promo": false,
+            "id": "4-C23WE65FGGCAME",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Ichiban_Sushi": {
+            "restaurant_name": "Ichiban Sushi",
+            "latitude_longitude": {
+                "latitude": 1.369274034,
+                "longitude": 103.8490431
+            },
+            "cuisine": [
+                "Japanese",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.292,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYUZDAWDNNEET6/hero/ad885947f83f468abb04eab18aaa6b23_1564628764349425534.webp",
+            "has_promo": false,
+            "id": "4-CYUZDAWDNNEET6",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Shu_Vegetarian": {
+            "restaurant_name": "SHU Vegetarian",
+            "latitude_longitude": {
+                "latitude": 1.372927,
+                "longitude": 103.857883
+            },
+            "cuisine": [
+                "Mala",
+                "Noodles",
+                "Chinese"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.949,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYMUL4NJGP5ZRT/hero/db060f46e28a438d950232b6a3944dcc_1563162462425902486.webp",
+            "has_promo": false,
+            "id": "4-CYMUL4NJGP5ZRT",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Sabrinas_Kitchen": {
+            "restaurant_name": "Sabrina's Kitchen",
+            "latitude_longitude": {
+                "latitude": 1.361678282789438,
+                "longitude": 103.85202923008998
+            },
+            "cuisine": [
+                "Breakfast & Brunch",
+                "Halal",
+                "Indonesian",
+                "Hawker",
+                "Local & Malaysian"
+            ],
+            "rating": 3.4,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.602,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6MUNBMHJKBCJT/hero/6db6a08f57cd46a79ecf617f880451e8_1717386199290098626.webp",
+            "has_promo": false,
+            "id": "4-C6MUNBMHJKBCJT",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Ichiban_Bento": {
+            "restaurant_name": "Ichiban Bento",
+            "latitude_longitude": {
+                "latitude": 1.3692676,
+                "longitude": 103.84887802
+            },
+            "cuisine": [
+                "Japanese"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.421,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZCDHBVZRKCCRN/hero/07ab118e556f4f53904445c8953414dc_1678243851658190394.webp",
+            "has_promo": true,
+            "id": "4-CZCDHBVZRKCCRN",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_bubble_tea_shop_by_heartbreak_melts": {
+            "restaurant_name": "Bubble Tea Shop by Heartbreak Melts",
+            "latitude_longitude": {
+                "latitude": 1.365323,
+                "longitude": 103.852988
+            },
+            "cuisine": [
+                "Bubble Tea",
+                "Coffee & Tea",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.046,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4LHNXTHWFJVLN/hero/7b0b970b-d3c3-4330-9fcc-cb7a44b97031__store_cover__2023__09__18__18__04__33.webp",
+            "has_promo": true,
+            "id": "4-C4LHNXTHWFJVLN",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": [
+                "20% off"
+            ]
+        },
+        "5049_Ann_Chin_Popiah": {
+            "restaurant_name": "Ann Chin Popiah",
+            "latitude_longitude": {
+                "latitude": 1.3729183853248705,
+                "longitude": 103.8553627
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Breakfast & Brunch"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.871,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD08390/hero/upload-photo-Hero_Photo_e56ea874cc714737a2f630ce69cdc8ea_1554865520860698778.webp",
+            "has_promo": false,
+            "id": "SGDD08390",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_the_wok_men": {
+            "restaurant_name": "The Wok Men",
+            "latitude_longitude": {
+                "latitude": 1.372586,
+                "longitude": 103.855446
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.924,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4EVEZLVJY5VG6/hero/b56abdb8bb9a488db2a0a55046cf8705_1689225966652794789.webp",
+            "has_promo": false,
+            "id": "4-C4EVEZLVJY5VG6",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Chong_Qing_Grilled_Fish": {
+            "restaurant_name": "Chong Qing Grilled Fish",
+            "latitude_longitude": {
+                "latitude": 1.3644957,
+                "longitude": 103.8657241
+            },
+            "cuisine": [
+                "Seafood",
+                "Local & Malaysian",
+                "Chinese"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.195,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYTGCXWVC7BTMA/hero/ed47a9fa62fb49edb4e1df926980a3c5_1658406031469100021.webp",
+            "has_promo": true,
+            "id": "4-CYTGCXWVC7BTMA",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Froz_Bakery_Cafe": {
+            "restaurant_name": "Froz Bakery Cafe",
+            "latitude_longitude": {
+                "latitude": 1.366124,
+                "longitude": 103.855083
+            },
+            "cuisine": [
+                "Bakery & Cake",
+                "Breakfast & Brunch",
+                "Coffee & Tea",
+                "Dessert"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.718,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4M1VFLXA33UUE/hero/b5e79be5d1e74ca69966ac3c4914ec52_1697793390124280958.webp",
+            "has_promo": true,
+            "id": "4-C4M1VFLXA33UUE",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": [
+                "Up to 30% Off",
+                "10% off"
+            ]
+        },
+        "01_ci_yin_vegetarian_food": {
+            "restaurant_name": "Ci Yin Vegetarian Food",
+            "latitude_longitude": {
+                "latitude": 1.3709129555969257,
+                "longitude": 103.8570834598481
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Vegetarian Friendly",
+                "Zi Char"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.931,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6JECJ5JRREKLT/hero/d10b327d4bb34168be3cc80743d70170_1710488865085074422.webp",
+            "has_promo": false,
+            "id": "4-C6JECJ5JRREKLT",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "02_Tanjong_Rhu_Wanton_Noodle": {
+            "restaurant_name": "Tanjong Rhu Wanton Noodle",
+            "latitude_longitude": {
+                "latitude": 1.36401470001,
+                "longitude": 103.8653807
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Local & Malaysian"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.178,
+            "image_link": null,
+            "has_promo": false,
+            "id": "4-C4KWTRNGNKTGFE",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Kimly_Mixed_Rice": {
+            "restaurant_name": "Kimly Mixed Rice",
+            "latitude_longitude": {
+                "latitude": 1.363947,
+                "longitude": 103.865385
+            },
+            "cuisine": [
+                "Dim Sum",
+                "Snack",
+                "Chinese"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.174,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZD2ETCTTPVEEN/hero/b26266b7d8ea47018345233b6342fa1a_1593485372465180680.webp",
+            "has_promo": false,
+            "id": "4-CZD2ETCTTPVEEN",
+            "estimated_delivery_fee": "S$4.70",
+            "promo_list": []
+        },
+        "01_Hua_Zai_Roasted_Duck": {
+            "restaurant_name": "Hua Zai Roasted Duck",
+            "latitude_longitude": {
+                "latitude": 1.3678147,
+                "longitude": 103.8550374
+            },
+            "cuisine": [
+                "Chinese"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.488,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZKDUE6ACN6JHE/hero/ffdb7e529abe4b36801e4dbd667e0786_1716976130818979919.webp",
+            "has_promo": true,
+            "id": "4-CZKDUE6ACN6JHE",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": [
+                "Up to 30% Off"
+            ]
+        },
+        "01_Grandmas_Pig_Trotter_Rice_Chong_Qing_Grilled_Fish": {
+            "restaurant_name": "Grandma's Pig Trotter Rice \u963f\u5b37\u732a\u811a\u996d Chong Qing Grilled Fish",
+            "latitude_longitude": {
+                "latitude": 1.36463,
+                "longitude": 103.86572
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Zi Char"
+            ],
+            "rating": 3.7,
+            "estimate_time_of_delivery": 70,
+            "distance_from_delivery": 2.187,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4KCN351EANTCJ/hero/bf6c6d33bf9b425c93ec50190f6dad05_1692320914787231645.webp",
+            "has_promo": true,
+            "id": "4-C4KCN351EANTCJ",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": [
+                "Free Delivery",
+                "10% off"
+            ]
+        },
+        "01_Fu_Bbq": {
+            "restaurant_name": "Fu Bbq",
+            "latitude_longitude": {
+                "latitude": 1.364268975,
+                "longitude": 103.866373625
+            },
+            "cuisine": [
+                "Zi Char",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.268,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYLYTUBZGUTBV2/hero/8e67f5ea90884978ad295efc2fca7328_1562835325760218313.webp",
+            "has_promo": false,
+            "id": "4-CYLYTUBZGUTBV2",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_jia_yan_seafood": {
+            "restaurant_name": "Jia Yan Seafood \u5bb6\u5bb4\u6d77\u9c9c\u9986",
+            "latitude_longitude": {
+                "latitude": 1.3678185463313652,
+                "longitude": 103.85509097734301
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Seafood"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.491,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6JHL8DANJTUEJ/hero/3d5ef29dcacb4f15ac98bb43b8093a90_1710842482180115141.webp",
+            "has_promo": false,
+            "id": "4-C6JHL8DANJTUEJ",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Fat_Boss_Waffles_And_Ice_Cream": {
+            "restaurant_name": "Fat Boss Waffles And Ice Cream",
+            "latitude_longitude": {
+                "latitude": 1.36202,
+                "longitude": 103.85545
+            },
+            "cuisine": [
+                "Ice Cream",
+                "Dessert",
+                "Coffee & Tea"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.143,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C24GDFVJSENFCA/hero/eb4c8968093a4aa0be54dba322f21774_1634619648920161717.webp",
+            "has_promo": false,
+            "id": "4-C24GDFVJSENFCA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Geylang_Lor_9_Fresh_Frog_Porridge": {
+            "restaurant_name": "Geylang Lor 9 Fresh Frog Porridge",
+            "latitude_longitude": {
+                "latitude": 1.37287429,
+                "longitude": 103.8552849
+            },
+            "cuisine": [
+                "Porridge",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.878,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDVA3BJDCAUNE/hero/ffea4dc030404b88b484511ec070bf46_1587434026603726696.webp",
+            "has_promo": false,
+            "id": "4-CZDVA3BJDCAUNE",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Wangs_Roasted_Delights": {
+            "restaurant_name": "Wang's Roasted Delights",
+            "latitude_longitude": {
+                "latitude": 1.36544278386067,
+                "longitude": 103.848918644048
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.44,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C23HG4CUSCBYEA/hero/418383d4d6ed44f097a6f170f4d61461_1632736851856569395.webp",
+            "has_promo": true,
+            "id": "4-C23HG4CUSCBYEA",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": [
+                "10% off",
+                "Any 3 for 5% off"
+            ]
+        },
+        "01_Swee_Heng_Bakery": {
+            "restaurant_name": "Swee Heng Bakery",
+            "latitude_longitude": {
+                "latitude": 1.3677253,
+                "longitude": 103.8559296
+            },
+            "cuisine": [
+                "Bakery & Cake",
+                "Halal"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.703,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32FN7DUA4BYV2/hero/2503882daecf44f5a45fcf1b04088699_1670584241734869243.webp",
+            "has_promo": true,
+            "id": "4-C32FN7DUA4BYV2",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Traditional_Hai_Nan_Fang_Yuan_Satay": {
+            "restaurant_name": "Traditional Hai Nan Fang Yuan Satay",
+            "latitude_longitude": {
+                "latitude": 1.3643825341899,
+                "longitude": 103.866275982725
+            },
+            "cuisine": [
+                "BBQ & Grill",
+                "Singaporean",
+                "Local & Malaysian"
+            ],
+            "rating": 3.9,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.106,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2TGGRA2RB4HNN/hero/bc99ffff10844c5f9ad7cb52ba68b279_1661932960921879764.webp",
+            "has_promo": false,
+            "id": "4-C2TGGRA2RB4HNN",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "5423_BreadTalk": {
+            "restaurant_name": "BreadTalk",
+            "latitude_longitude": {
+                "latitude": 1.3692574510731816,
+                "longitude": 103.84897055590784
+            },
+            "cuisine": [
+                "Bakery",
+                "Breakfast & Brunch",
+                "Local",
+                "Snacks",
+                "Asian"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.412,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDCL2CTVEWXV6/hero/baeb65759c0842198b53522a0b8afd65_1623834812607618119.webp",
+            "has_promo": true,
+            "id": "4-CZDCL2CTVEWXV6",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_gaga_roasted_delights": {
+            "restaurant_name": "Gaga Roasted Delight \u560e\u560e\u70e7\u814a",
+            "latitude_longitude": {
+                "latitude": 1.37134,
+                "longitude": 103.85702
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.907,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4LARTBUJFEJNE/hero/af1bb38de9aa4777bd46c7a0e4390d96_1694138201529414421.webp",
+            "has_promo": false,
+            "id": "4-C4LARTBUJFEJNE",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Wang_BBQ": {
+            "restaurant_name": "Wang BBQ",
+            "latitude_longitude": {
+                "latitude": 1.3642524,
+                "longitude": 103.86641341353919
+            },
+            "cuisine": [
+                "BBQ & Grill",
+                "Local & Malaysian"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 70,
+            "distance_from_delivery": 2.265,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDVSENYAEJAL6/hero/b19f62c671d442f5ac1f1d5107dd2329_1587653832933595045.webp",
+            "has_promo": false,
+            "id": "4-CZDVSENYAEJAL6",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_Plonk": {
+            "restaurant_name": "Plonk",
+            "latitude_longitude": {
+                "latitude": 1.365242,
+                "longitude": 103.865563
+            },
+            "cuisine": [
+                "Burger",
+                "Pasta",
+                "Pizza",
+                "Salad",
+                "Western"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.067,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CY51AUTKJ7WHEJ/hero/1af0418eb4344e85aed1464679955070_1579242284757208001.webp",
+            "has_promo": false,
+            "id": "4-CY51AUTKJ7WHEJ",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Fulee_Seafood": {
+            "restaurant_name": "Fulee Seafood",
+            "latitude_longitude": {
+                "latitude": 1.372251,
+                "longitude": 103.855402
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.82,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C36XT3C3CKXAVN/hero/8c70ea716467431fb9979a1e11497978_1679545383505351771.webp",
+            "has_promo": false,
+            "id": "4-C36XT3C3CKXAVN",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_senthil_murugan_indian_foods": {
+            "restaurant_name": "Senthil Murugan Indian Foods",
+            "latitude_longitude": {
+                "latitude": 1.36563246111111,
+                "longitude": 103.8532397
+            },
+            "cuisine": [
+                "Indian",
+                "Noodles",
+                "Seafood"
+            ],
+            "rating": 3.8,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.145,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6KYDEJUNANFSE/hero/2230104932bd47ad9d30acb69a6a87f8_1713752093724272741.webp",
+            "has_promo": false,
+            "id": "4-C6KYDEJUNANFSE",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Oblong": {
+            "restaurant_name": "Oblong",
+            "latitude_longitude": {
+                "latitude": 1.364873,
+                "longitude": 103.865589
+            },
+            "cuisine": [
+                "Mart",
+                "Ice Cream",
+                "Dessert"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.074,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDUTU3KE7DGTA/hero/6d4bfcbac3c04dd989d16a8b4a69ad56_1588163018975770802.webp",
+            "has_promo": false,
+            "id": "4-CZDUTU3KE7DGTA",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_The_Larder_Cafe": {
+            "restaurant_name": "The Larder Cafe",
+            "latitude_longitude": {
+                "latitude": 1.364113881556853,
+                "longitude": 103.86554684285713
+            },
+            "cuisine": [
+                "Western",
+                "Pasta",
+                "Pizza"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.189,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDTCNTKKGLBC6/hero/b1c06d0549e8491e9387dc5ce69dd1a3_1587024749689409222.webp",
+            "has_promo": false,
+            "id": "4-CZDTCNTKKGLBC6",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_HockHua_Tonic": {
+            "restaurant_name": "HockHua Tonic",
+            "latitude_longitude": {
+                "latitude": 1.362687,
+                "longitude": 103.854642
+            },
+            "cuisine": [
+                "Mart",
+                "Health & Wellness"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 1.029,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3JDJK4FG2W2CA/hero/9e78763825f247778c85e8422e97aabe_1650346734320696611.webp",
+            "has_promo": false,
+            "id": "4-C3JDJK4FG2W2CA",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Ah_Hwa_Noodle_House": {
+            "restaurant_name": "Ah Hwa Noodle House",
+            "latitude_longitude": {
+                "latitude": 1.37258573259292,
+                "longitude": 103.855446574049
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Local & Malaysian"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 55,
+            "distance_from_delivery": 0.924,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C35ZJNWKRTUHPA/hero/fa828a4e7b6e4db0b590feb3ebcb3c94_1677725670524035544.webp",
+            "has_promo": false,
+            "id": "4-C35ZJNWKRTUHPA",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "MyVillage - Mix & Match": {
+            "restaurant_name": null,
+            "latitude_longitude": {
+                "latitude": 1.36499543,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Drinks & Beverages",
+                "Western"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.064,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4EKPBABTJUCRE/hero/58fbca97e6e34804a887b7cef696ddeb_1688968401853795759.webp",
+            "has_promo": true,
+            "id": "4-C4EKPBABTJUCRE",
+            "estimated_delivery_fee": "S$5.40",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_FruitSteps": {
+            "restaurant_name": "FruitSteps",
+            "latitude_longitude": {
+                "latitude": 1.3627599,
+                "longitude": 103.8541928
+            },
+            "cuisine": [
+                "Islandwide Delivery",
+                "Fruit",
+                "Groceries",
+                "Mart",
+                "Local"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.048,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZE1PAUWFEXUNA/hero/a5664d21a1434f54bb700ce804fea682_1619759614011285311.webp",
+            "has_promo": true,
+            "id": "4-CZE1PAUWFEXUNA",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": [
+                "Free Delivery",
+                "S$3 off Delivery"
+            ]
+        },
+        "01_New_Econ_Orange_Mart": {
+            "restaurant_name": "New Econ - Orange Mart",
+            "latitude_longitude": {
+                "latitude": 1.361948,
+                "longitude": 103.851908
+            },
+            "cuisine": [
+                "Alcohol",
+                "Convenience",
+                "Snacks",
+                "Mart",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 50,
+            "distance_from_delivery": 1.482,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZNELTBYLBA1E2/hero/9f0fbf99a6df40bb95940805245eb283_1598497578285056456.webp",
+            "has_promo": false,
+            "id": "4-CZNELTBYLBA1E2",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_M_Family_Mart": {
+            "restaurant_name": "M Family Mart",
+            "latitude_longitude": {
+                "latitude": 1.3732655718499132,
+                "longitude": 103.85382937611337
+            },
+            "cuisine": [
+                "Alcohol",
+                "Convenience",
+                "Groceries",
+                "Mart",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.078,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4DXCRM3HE2KTA/hero/ea67fe12c7ee4689ad67bbba4d20a712_1687414013240974063.webp",
+            "has_promo": false,
+            "id": "4-C4DXCRM3HE2KTA",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Chong_Keng_Fruits__Vegetables": {
+            "restaurant_name": "Chong Keng Fruits & Vegetables",
+            "latitude_longitude": {
+                "latitude": 1.367912585,
+                "longitude": 103.8562473
+            },
+            "cuisine": [
+                "Mart"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.703,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3DKA3NXLUUFEN/hero/270ba3fa74f34c248914eba343ea766d_1679144560068033773.webp",
+            "has_promo": false,
+            "id": "4-C3DKA3NXLUUFEN",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_kelim_dakdoritang": {
+            "restaurant_name": "Kelim Dakdoritang",
+            "latitude_longitude": {
+                "latitude": 1.3652683,
+                "longitude": 103.8661111
+            },
+            "cuisine": [
+                "Korean",
+                "Drinks & Beverages",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.112,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6AHBBJXTB32NJ/hero/5a8379ec-29ef-4fbf-8bd8-268a931d6048__store_cover__2024__02__09__03__05__12.webp",
+            "has_promo": true,
+            "id": "4-C6AHBBJXTB32NJ",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": [
+                "Up to 30% Off"
+            ]
+        },
+        "01_Wine_Connection": {
+            "restaurant_name": "Wine Connection",
+            "latitude_longitude": {
+                "latitude": 1.3649628,
+                "longitude": 103.865244
+            },
+            "cuisine": [
+                "Wine",
+                "Mart",
+                "Alcohol"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.123,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZEGLACBEA2HCJ/hero/a691ac9be73c4317aa100c43ec51f008_1588653621836617162.webp",
+            "has_promo": false,
+            "id": "4-CZEGLACBEA2HCJ",
+            "estimated_delivery_fee": "S$3.80",
+            "promo_list": []
+        },
+        "01_Juz_Scooop": {
+            "restaurant_name": "Juz Scooop",
+            "latitude_longitude": {
+                "latitude": 1.372586,
+                "longitude": 103.855447
+            },
+            "cuisine": [
+                "Bakery & Cake",
+                "Dessert",
+                "Drinks & Beverages",
+                "Ice Cream",
+                "Coffee & Tea"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.924,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3X1EFDCHCCZRJ/hero/3baebd8f281f4697aed9e864b3429474_1669772898038037608.webp",
+            "has_promo": false,
+            "id": "4-C3X1EFDCHCCZRJ",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_sui_xin_wu": {
+            "restaurant_name": "Sui Xin Wu",
+            "latitude_longitude": {
+                "latitude": 1.36563246111111,
+                "longitude": 103.8532397
+            },
+            "cuisine": [
+                "Japanese",
+                "Seafood",
+                "Vegetarian Friendly"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.237,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6C3TBVXPEDAVA/hero/b462e874-40e3-42da-b5ef-26dfd415807c__store_cover__2024__05__06__13__28__28.webp",
+            "has_promo": true,
+            "id": "4-C6C3TBVXPEDAVA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": [
+                "Free item"
+            ]
+        },
+        "01_Celines_Gelato": {
+            "restaurant_name": "Celine's Gelato",
+            "latitude_longitude": {
+                "latitude": 1.36499543,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Dessert",
+                "Ice Cream",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.064,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6AXE3XBVN4GSE/hero/8e9723a0c4c442539c0647fb10841ee0_1702267237427358943.webp",
+            "has_promo": false,
+            "id": "4-C6AXE3XBVN4GSE",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Heartbreak_Melts_Ice_Cream_Cafe": {
+            "restaurant_name": "Heartbreak Melts Ice Cream Cafe",
+            "latitude_longitude": {
+                "latitude": 1.365054,
+                "longitude": 103.852676
+            },
+            "cuisine": [
+                "Bubble Tea",
+                "Dessert",
+                "Vegan"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.085,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3AVSGC3VJ2EMA/hero/821a6205-8dc7-4b3a-bc66-0282164ee123__store_cover__2023__11__27__15__38__12.webp",
+            "has_promo": false,
+            "id": "4-C3AVSGC3VJ2EMA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Serangoon_Garden_Market": {
+            "restaurant_name": "Serangoon Garden Market",
+            "latitude_longitude": {
+                "latitude": 1.3631828,
+                "longitude": 103.8667367
+            },
+            "cuisine": [
+                "Local"
+            ],
+            "rating": 3.3,
+            "estimate_time_of_delivery": 70,
+            "distance_from_delivery": 2.541,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2MZWFDDNYWDGJ/hero/ecda573d8cfe43f08ef47f870e1d0b56_1617705540198099613.webp",
+            "has_promo": true,
+            "id": "4-C2MZWFDDNYWDGJ",
+            "estimated_delivery_fee": "S$5.60",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "5876_Duke_Bakery": {
+            "restaurant_name": "Duke Bakery",
+            "latitude_longitude": {
+                "latitude": 1.3649791,
+                "longitude": 103.865255025
+            },
+            "cuisine": [
+                "Mart",
+                "Cake",
+                "Snacks",
+                "Bakery",
+                "Dessert"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.124,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD09939/hero/c4a3fc7a172847dda2a677372f11aec2_1589269998966406253.webp",
+            "has_promo": false,
+            "id": "SGDD09939",
+            "estimated_delivery_fee": "S$3.80",
+            "promo_list": []
+        },
+        "01_Dinghao": {
+            "restaurant_name": "Dinghao",
+            "latitude_longitude": {
+                "latitude": 1.364309,
+                "longitude": 103.866385
+            },
+            "cuisine": [
+                "Dessert",
+                "Drinks & Beverages",
+                "Healthy"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.271,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDJLJNEHBECG6/hero/e2a282b8d67d4e0abf20f1b322e21a8c_1586852187602085072.webp",
+            "has_promo": false,
+            "id": "4-CZDJLJNEHBECG6",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_Thams_Roasted_Delights": {
+            "restaurant_name": "Tham's Roasted Delights",
+            "latitude_longitude": {
+                "latitude": 1.36551022,
+                "longitude": 103.8532645
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles",
+                "BBQ & Grill"
+            ],
+            "rating": 3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.993,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C36CN8C3NEWAN6/hero/8d409eac33b4448cb5b6e62189ac95e6_1694692932220821776.webp",
+            "has_promo": false,
+            "id": "4-C36CN8C3NEWAN6",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "6958_Lao_Ban": {
+            "restaurant_name": "Lao Ban",
+            "latitude_longitude": {
+                "latitude": 1.369276,
+                "longitude": 103.849121
+            },
+            "cuisine": [
+                "Drinks & Beverages",
+                "Dessert",
+                "Bubble Tea"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.994,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD11888/hero/laoban_hero_16x9.webp",
+            "has_promo": false,
+            "id": "SGDD11888",
+            "estimated_delivery_fee": "S$3.60",
+            "promo_list": []
+        },
+        "01_Bella_Italia": {
+            "restaurant_name": "Bella Italia",
+            "latitude_longitude": {
+                "latitude": 1.3652970810472969,
+                "longitude": 103.8651230269291
+            },
+            "cuisine": [
+                "Italian",
+                "Snack",
+                "Pasta",
+                "Pizza"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.122,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3DKAFAZNX52NN/hero/17f77da580e34285945adf65edea316d_1646901416765119501.webp",
+            "has_promo": false,
+            "id": "4-C3DKAFAZNX52NN",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Carlsberg_Beer_Store": {
+            "restaurant_name": "Carlsberg Beer Store",
+            "latitude_longitude": {
+                "latitude": 1.362540002,
+                "longitude": 103.85286
+            },
+            "cuisine": [
+                "Alcohol"
+            ],
+            "rating": 3,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.32,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6CHR3LAGNAKT6/hero/be16e0871dd241759ed41cc79c036d13_1704853030194685046.webp",
+            "has_promo": true,
+            "id": "4-C6CHR3LAGNAKT6",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Tanamera_Coffee": {
+            "restaurant_name": "Tanamera Coffee",
+            "latitude_longitude": {
+                "latitude": 1.36499543,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Coffee & Tea",
+                "Drinks & Beverages",
+                "Bubble Tea"
+            ],
+            "rating": 3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.064,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4JEGYMKDGKKWA/hero/b369248e-d771-4f0c-ba6d-5f6eb96a3e76__store_cover__2023__11__21__10__31__45.webp",
+            "has_promo": false,
+            "id": "4-C4JEGYMKDGKKWA",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_hungers_villa": {
+            "restaurant_name": "Hungers Villa",
+            "latitude_longitude": {
+                "latitude": 1.371207,
+                "longitude": 103.857026
+            },
+            "cuisine": [
+                "Breakfast & Brunch",
+                "Coffee & Tea",
+                "Indian"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.898,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4NKCRCUN753ME/hero/6f7683f4-0f2b-410b-8ee7-031c50f73e67__store_cover__2023__11__09__07__36__31.webp",
+            "has_promo": false,
+            "id": "4-C4NKCRCUN753ME",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Niu_Xiao_Er_Mala_Hot_Pot": {
+            "restaurant_name": "Niu Xiao Er Mala Hot Pot",
+            "latitude_longitude": {
+                "latitude": 1.365490648,
+                "longitude": 103.8533915
+            },
+            "cuisine": [
+                "Mala",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.103,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C36EJ2EVGNT2EN/hero/bbc7b55ce71a42f786711559b09c5457_1681277760032268897.webp",
+            "has_promo": false,
+            "id": "4-C36EJ2EVGNT2EN",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "Cheng San Centre": {
+            "restaurant_name": null,
+            "latitude_longitude": {
+                "latitude": 1.37253802,
+                "longitude": 103.8546748
+            },
+            "cuisine": [
+                "Chinese",
+                "Hawker",
+                "Local & Malaysian"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.923,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4A3NCJTBA6HPA/hero/7357fb8f7de6438fa4705192c5cecb6c_1681961385427858829.webp",
+            "has_promo": true,
+            "id": "4-C4A3NCJTBA6HPA",
+            "estimated_delivery_fee": "S$4.20",
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Happy_Days_Shop": {
+            "restaurant_name": "Happy Days Shop",
+            "latitude_longitude": {
+                "latitude": 1.37134,
+                "longitude": 103.85702
+            },
+            "cuisine": [
+                "Convenience",
+                "Groceries",
+                "Mart"
+            ],
+            "rating": 3,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.907,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4DCDGNCLTJXHE/hero/33f1e55a6010476da30fd8ea47f3c82e_1686220007992538564.webp",
+            "has_promo": false,
+            "id": "4-C4DCDGNCLTJXHE",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Tea_Wiches": {
+            "restaurant_name": "Tea Wiches",
+            "latitude_longitude": {
+                "latitude": 1.3765991,
+                "longitude": 103.856498380016
+            },
+            "cuisine": [
+                "Bubble Tea",
+                "Drinks & Beverages",
+                "Coffee & Tea"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.499,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3UHC76USAL1VA/hero/eb5ce4af50384b2cb785cadcbd6d4895_1663653369469943385.webp",
+            "has_promo": false,
+            "id": "4-C3UHC76USAL1VA",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Guo_Chang_Mala_Hotpot": {
+            "restaurant_name": "Guo Chang Mala Hot Pot",
+            "latitude_longitude": {
+                "latitude": 1.372293,
+                "longitude": 103.861763
+            },
+            "cuisine": [
+                "Chinese",
+                "Mala",
+                "Seafood"
+            ],
+            "rating": 2.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.601,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6DBSBW2MBTEGA/hero/4cd6fd09057a422eb761ba20d101a078_1706237050608813750.webp",
+            "has_promo": false,
+            "id": "4-C6DBSBW2MBTEGA",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_AMK_Hub_Beta": {
+            "restaurant_name": "AMK Hub - Beta",
+            "latitude_longitude": {
+                "latitude": 1.369264117253195,
+                "longitude": 103.84889439848206
+            },
+            "cuisine": [
+                "Mart",
+                "Bakery",
+                "Cupcakes",
+                "Pharmacy/Health",
+                "Florist"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.335,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZNDJREDBAT2VN/hero/2148c3dac64e4cc5a3efc2f13470bf23_1681267005256377698.webp",
+            "has_promo": false,
+            "id": "4-CZNDJREDBAT2VN",
+            "estimated_delivery_fee": "S$6.60",
+            "promo_list": []
+        },
+        "01_sap_ubon_thai_cuisine": {
+            "restaurant_name": "Sap Ubon Thai Cuisine",
+            "latitude_longitude": {
+                "latitude": 1.366891008193809,
+                "longitude": 103.85784151653297
+            },
+            "cuisine": [
+                "Thai"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.08454464463503947,
+            "image_link": null,
+            "has_promo": false,
+            "id": "4-C4LBLYLKFCM2VT",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_whisky_others_wine_wow": {
+            "restaurant_name": "Whisky. Others. Wine. (W.O.W)",
+            "latitude_longitude": {
+                "latitude": 1.3660122490003,
+                "longitude": 103.8667792
+            },
+            "cuisine": [
+                "Alcohol",
+                "Drinks & Beverages",
+                "Mart"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 45,
+            "distance_from_delivery": 2.073,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6JXET6UNNKJGT/hero/0affc8b1-eec1-4dc1-a841-8113a5b888dc__store_cover__2024__04__03__13__10__58.webp",
+            "has_promo": false,
+            "id": "4-C6JXET6UNNKJGT",
+            "estimated_delivery_fee": "S$3.80",
+            "promo_list": []
+        },
+        "01_Professor_Brawn_Cafe": {
+            "restaurant_name": "Professor Brawn Cafe",
+            "latitude_longitude": {
+                "latitude": 1.359067,
+                "longitude": 103.854385
+            },
+            "cuisine": [
+                "Pasta",
+                "Salad",
+                "Western"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.288,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDJLFMDCZEDCX/hero/144ac60cfa474c0ead394785cb1cf554_1586938001169774736.webp",
+            "has_promo": false,
+            "id": "4-CZDJLFMDCZEDCX",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Jin_Xin_Mei_Shi_Dian": {
+            "restaurant_name": "Jin Xin Mei Shi Dian",
+            "latitude_longitude": {
+                "latitude": 1.37134,
+                "longitude": 103.85702
+            },
+            "cuisine": [
+                "Chinese",
+                "Porridge"
+            ],
+            "rating": 3.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.907,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3WKKFDTCBETCE/hero/08a13ae88b0849ef82385ef44e8f8cff_1669101820784170465.webp",
+            "has_promo": false,
+            "id": "4-C3WKKFDTCBETCE",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "Serangoon Garden - Mix & Match Malls (Mart)": {
+            "restaurant_name": null,
+            "latitude_longitude": {
+                "latitude": 1.36499543,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Bakery & Pastries",
+                "Mart",
+                "Convenience"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 60,
+            "distance_from_delivery": 2.064,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C36TJNWEGB23LJ/hero/7f6da348077a4e439a5e1e31186e8631_1679384927307343960.webp",
+            "has_promo": false,
+            "id": "4-C36TJNWEGB23LJ",
+            "estimated_delivery_fee": "S$5.80",
+            "promo_list": []
+        },
+        "01_Xiang_Geli_Indonesian_Food": {
+            "restaurant_name": "Xiang Geli Indonesian Food",
+            "latitude_longitude": {
+                "latitude": 1.36401470001,
+                "longitude": 103.8653807
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Fried Chicken"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.178,
+            "image_link": "https://food-cms.grab.com/compressed/merchants/4-CYNJTJBKAYJCSA/hero/75r-24bits-100kb-471127f36496e1ea342be0f33ca066df86d004ebea0ab09bf19324db5fc98075-b6370333ff4449378bf85825cd5cdc69_1563524374628161277.jpeg",
+            "has_promo": false,
+            "id": "4-CYNJTJBKAYJCSA",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_KT_Marts": {
+            "restaurant_name": "KT Marts",
+            "latitude_longitude": {
+                "latitude": 1.3679727883697759,
+                "longitude": 103.85742732521359
+            },
+            "cuisine": [
+                "Convenience",
+                "Halal",
+                "Snacks",
+                "Local & Malaysian"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 15,
+            "distance_from_delivery": 0.11428315763753168,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4CXEB6BE63VPE/hero/0af53700-ebbc-424f-9dcb-aa9b473a2856__store_cover__2023__05__31__14__47__03.webp",
+            "has_promo": false,
+            "id": "4-C4CXEB6BE63VPE",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Bharath_Mini_Mart": {
+            "restaurant_name": "Bharath Mini Mart",
+            "latitude_longitude": {
+                "latitude": 1.36255125,
+                "longitude": 103.856468
+            },
+            "cuisine": [
+                "Groceries",
+                "Mart"
+            ],
+            "rating": 1,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.745,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4B2NUBGHCKEBE/hero/576040e0bd1349dd95bdd365e6e5fba9_1683874448619360119.webp",
+            "has_promo": false,
+            "id": "4-C4B2NUBGHCKEBE",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Xin_Yun_Seafood_Fishhead_Steamboat": {
+            "restaurant_name": "Xin Yun Seafood Fishhead Steamboat",
+            "latitude_longitude": {
+                "latitude": 1.3629293,
+                "longitude": 103.8555504
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Bento"
+            ],
+            "rating": 3.9,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.925,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZD1CVMHCGKCCT/hero/3917b739c881427fa10d4e5b0978027c_1587714970800868355.webp",
+            "has_promo": false,
+            "id": "4-CZD1CVMHCGKCCT",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_ABC_Thai_Cuisine": {
+            "restaurant_name": "ABC Thai Cuisine",
+            "latitude_longitude": {
+                "latitude": 1.370868379199976,
+                "longitude": 103.86351305087811
+            },
+            "cuisine": [
+                "Thai",
+                "Seafood",
+                "Fried Chicken"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.477,
+            "image_link": null,
+            "has_promo": false,
+            "id": "4-C6AGHCJWEJMWJ6",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Sengkang_19": {
+            "restaurant_name": "Sengkang 19",
+            "latitude_longitude": {
+                "latitude": 1.37297132951892,
+                "longitude": 103.855252223152
+            },
+            "cuisine": [
+                "Healthy"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.875,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2WGNGCJNGMZWA/hero/77d0872937074d7cb443e644d3ad1e0b_1626661848848093233.webp",
+            "has_promo": false,
+            "id": "4-C2WGNGCJNGMZWA",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Kaka_Fruits__Vegetables_Pte_Ltd": {
+            "restaurant_name": "Kaka Fruits & Vegetables Pte. Ltd.",
+            "latitude_longitude": {
+                "latitude": 1.3619090004,
+                "longitude": 103.855275
+            },
+            "cuisine": [
+                "Mart"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 1.144,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3WWMGNJPFJANA/hero/8707cbfd1b784671b9736f3239de2345_1667359988749070894.webp",
+            "has_promo": false,
+            "id": "4-C3WWMGNJPFJANA",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Teck_Ghee_HK_Pastries": {
+            "restaurant_name": "Teck Ghee H.K Pastries",
+            "latitude_longitude": {
+                "latitude": 1.361711898,
+                "longitude": 103.8550978
+            },
+            "cuisine": [
+                "Bakery & Cake",
+                "Cakes & Bakeries"
+            ],
+            "rating": 3.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.054,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UBA2CFNTDVHA/hero/aa6a36ae048148059ef6568501a6731c_1640241662671528810.webp",
+            "has_promo": false,
+            "id": "4-C2UBA2CFNTDVHA",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_SG_Durian_Boy": {
+            "restaurant_name": "SG Durian Boy",
+            "latitude_longitude": {
+                "latitude": 1.37348088630844,
+                "longitude": 103.85433125397
+            },
+            "cuisine": [
+                "Mart"
+            ],
+            "rating": 3.3,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.06,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3D2GJKUG23DET/hero/7bcf881815c84a5fa3e26a503d6aa445_1647833682027259261.webp",
+            "has_promo": false,
+            "id": "4-C3D2GJKUG23DET",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Mamabox": {
+            "restaurant_name": "Mamabox",
+            "latitude_longitude": {
+                "latitude": 1.36036,
+                "longitude": 103.856746
+            },
+            "cuisine": [
+                "Convenience",
+                "Snack",
+                "Mart",
+                "Drinks & Beverages"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.127,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2WXJYLUFAUXLE/hero/ceed3121616945c080c46b33ab6cf42d_1655179448943239117.webp",
+            "has_promo": false,
+            "id": "4-C2WXJYLUFAUXLE",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Haakon_Superfoods__Juice": {
+            "restaurant_name": "Haakon Superfoods & Juice",
+            "latitude_longitude": {
+                "latitude": 1.3653907,
+                "longitude": 103.8657049
+            },
+            "cuisine": [
+                "Salad",
+                "Ice Cream",
+                "Healthy",
+                "Western"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 55,
+            "distance_from_delivery": 2.296,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3XBKAWHSGEUVT/hero/c9fadbf7640e477d9240d000a26d5565_1668149087804243064.webp",
+            "has_promo": false,
+            "id": "4-C3XBKAWHSGEUVT",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_hot_girl_mala_tang": {
+            "restaurant_name": "Hot Girl Mala Tang",
+            "latitude_longitude": {
+                "latitude": 1.364409781,
+                "longitude": 103.8662124
+            },
+            "cuisine": [
+                "Mala",
+                "Local & Malaysian",
+                "Chinese"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.092,
+            "image_link": null,
+            "has_promo": false,
+            "id": "4-C4LHJFN1JX4KBE",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "44_Mala_Hot_Pot": {
+            "restaurant_name": "Mala Hot Pot \u8c01\u6700\u8fa3",
+            "latitude_longitude": {
+                "latitude": 1.364383,
+                "longitude": 103.866276
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Mala"
+            ],
+            "rating": 3.8,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.106,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C24UGKVHKEJCR2/hero/c27d26b0dd9643a6bae7d5e182c0350d_1635132647607404460.webp",
+            "has_promo": false,
+            "id": "4-C24UGKVHKEJCR2",
+            "estimated_delivery_fee": "S$4.40",
+            "promo_list": []
+        },
+        "01_Satay_Bee_Hoon": {
+            "restaurant_name": "Satay Bee Hoon #01-17",
+            "latitude_longitude": {
+                "latitude": 1.364144,
+                "longitude": 103.866536
+            },
+            "cuisine": [
+                "Chinese",
+                "Local"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.26,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UHC4LTNJ5VEX/hero/1917dd27f5174599b41ba40aef0a127b_1627431550852580991.webp",
+            "has_promo": false,
+            "id": "4-C2UHC4LTNJ5VEX",
+            "estimated_delivery_fee": "S$4.50",
+            "promo_list": []
+        },
+        "01_VintageTree": {
+            "restaurant_name": "VintageTree",
+            "latitude_longitude": {
+                "latitude": 1.37654443398687,
+                "longitude": 103.85515914897
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 70,
+            "distance_from_delivery": 1.529,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2WZHEWVT3UJGN/hero/1c040e9d72c34a63babfdcf888388924_1627693010394479836.webp",
+            "has_promo": false,
+            "id": "4-C2WZHEWVT3UJGN",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_Mixed_Vegetable_Rice": {
+            "restaurant_name": "Mixed Vegetable Rice",
+            "latitude_longitude": {
+                "latitude": 1.37061585,
+                "longitude": 103.8570438
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Porridge"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.476,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDXHEBCTVB2C6/hero/a79377df0d0e4bcb9213d334475f53f6_1609776495987954963.webp",
+            "has_promo": false,
+            "id": "4-CZDXHEBCTVB2C6",
+            "estimated_delivery_fee": "S$3.20",
+            "promo_list": []
+        },
+        "01_Amma_Store": {
+            "restaurant_name": "Amma Store",
+            "latitude_longitude": {
+                "latitude": 1.37120006,
+                "longitude": 103.857102
+            },
+            "cuisine": [
+                "Convenience",
+                "Mart"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.9,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4EBA7MEWATBEA/hero/4283ed0774024a1c9407c3922fdc0b8a_1691485947125993900.webp",
+            "has_promo": false,
+            "id": "4-C4EBA7MEWATBEA",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": []
+        },
+        "01_Dukrian": {
+            "restaurant_name": "Dukrian",
+            "latitude_longitude": {
+                "latitude": 1.363421,
+                "longitude": 103.86291
+            },
+            "cuisine": [
+                "Fresh Produce",
+                "Vegetarian Friendly",
+                "Groceries",
+                "Kids Friendly",
+                "Fruits"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.285,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4BTCUDDJ3AUET/hero/5bde19c2-9127-46e4-9209-93831784b578__store_cover__2023__05__04__20__12__50.webp",
+            "has_promo": true,
+            "id": "4-C4BTCUDDJ3AUET",
+            "estimated_delivery_fee": "S$3.10",
+            "promo_list": [
+                "5% off with S$50.0...",
+                "S$2 off Delivery"
+            ]
+        },
+        "01_Al_Khadija_Indian_Muslim_Food": {
+            "restaurant_name": "Al Khadija Indian Muslim Food",
+            "latitude_longitude": {
+                "latitude": 1.3679957777800777,
+                "longitude": 103.85116537037037
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Indian"
+            ],
+            "rating": 3.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.118,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZD1CVLVG3UJCA/hero/6b6e000350dd4181be40f3f400a59114_1587714955792157713.webp",
+            "has_promo": false,
+            "id": "4-CZD1CVLVG3UJCA",
+            "estimated_delivery_fee": "S$3.40",
+            "promo_list": []
+        },
+        "01_Xin_Rong_Ji_Fried_Hokkien_Prawn_Mee_Carrot_Cake": {
+            "restaurant_name": "Xin Rong Ji Fried Hokkien Prawn Mee / Carrot Cake",
+            "latitude_longitude": {
+                "latitude": 1.3655908333333333,
+                "longitude": 103.8489727
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.423,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2B1CAKWRPAVVA/hero/195bbadd9b824c31b27b44f93bf07426_1604470040245770793.webp",
+            "has_promo": false,
+            "id": "4-C2B1CAKWRPAVVA",
+            "estimated_delivery_fee": "S$3.50",
+            "promo_list": []
+        },
+        "01_McDonalds": {
+            "restaurant_name": "McDonald's",
+            "latitude_longitude": {
+                "latitude": 1.3673030689511876,
+                "longitude": 103.85645089081322
+            },
+            "cuisine": [
+                "Burger",
+                "Fast Food",
+                "Halal"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 15,
+            "distance_from_delivery": 0.20956281904698806,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD04955/hero/c5c920201d4d4a46b496c7a813e7e04b_1677816676291396627.webp",
+            "has_promo": true,
+            "id": "SGDD04955",
+            "estimated_delivery_fee": null,
+            "promo_list": [
+                "Free Delivery",
+                "S$3.00 off"
+            ]
+        },
+        "01_Md_Noor_Hakim_Chicken_Rice": {
+            "restaurant_name": "Md Noor Hakim Chicken Rice",
+            "latitude_longitude": {
+                "latitude": 1.36462717711609,
+                "longitude": 103.849579032003
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.604,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UTJJNKBBEKNA/hero/61e40e13938841cdad987b8f1039d5b6_1624535053610286877.webp",
+            "has_promo": false,
+            "id": "4-C2UTJJNKBBEKNA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Nasi_Lemak_Sedap": {
+            "restaurant_name": "Nasi Lemak Sedap",
+            "latitude_longitude": {
+                "latitude": 1.36561,
+                "longitude": 103.853207
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Fried Chicken",
+                "Snack"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.299,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZBVJ2LGN6TVL6/hero/80266aafca7940c39af0698fa72a78e4_1644555440783963091.webp",
+            "has_promo": false,
+            "id": "4-CZBVJ2LGN6TVL6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Chicken_Haven": {
+            "restaurant_name": "Chicken Haven",
+            "latitude_longitude": {
+                "latitude": 1.3766609336783375,
+                "longitude": 103.8568012336246
+            },
+            "cuisine": [
+                "Western",
+                "Drinks & Beverages",
+                "BBQ & Grill",
+                "Snack",
+                "Fried Chicken"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.5,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2NJAFDTG3XFBE/hero/71bc0c3c02814c6eab47f223ad36cc07_1644901570429139050.webp",
+            "has_promo": true,
+            "id": "4-C2NJAFDTG3XFBE",
+            "estimated_delivery_fee": null,
+            "promo_list": [
+                "10% off"
+            ]
+        },
+        "01_Hong_Style_Fried_Rice": {
+            "restaurant_name": "Hong Style Fried Rice",
+            "latitude_longitude": {
+                "latitude": 1.362061713,
+                "longitude": 103.8516805
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Hawker"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.483,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2WJG3MFRUVYT6/hero/52936195b719497ab7ee53fc6dec992b_1641528583355533357.webp",
+            "has_promo": false,
+            "id": "4-C2WJG3MFRUVYT6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Dim_Sum_Affair": {
+            "restaurant_name": "Dim Sum Affair \u591a\u4e00\u7c60",
+            "latitude_longitude": {
+                "latitude": 1.37348088630844,
+                "longitude": 103.85433125397
+            },
+            "cuisine": [
+                "Dim Sum",
+                "Chinese",
+                "Snack"
+            ],
+            "rating": 3.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.06,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3CYT6D3FF3JWE/hero/39f5f568-56cf-4607-b36c-963834a87502__store_cover__2024__03__04__08__51__09.webp",
+            "has_promo": true,
+            "id": "4-C3CYT6D3FF3JWE",
+            "estimated_delivery_fee": null,
+            "promo_list": [
+                "Free Delivery"
+            ]
+        },
+        "01_Happy_Daze": {
+            "restaurant_name": "Happy Daze",
+            "latitude_longitude": {
+                "latitude": 1.3653524,
+                "longitude": 103.8655692
+            },
+            "cuisine": [
+                "Western",
+                "Pasta",
+                "Salad"
+            ],
+            "rating": 3.6,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.067,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2CAGJVDLTVBAN/hero/dc8a8205e6d14886b3e138912c52366a_1604032243691904009.webp",
+            "has_promo": false,
+            "id": "4-C2CAGJVDLTVBAN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_the_food_hive": {
+            "restaurant_name": "The Food Hive",
+            "latitude_longitude": {
+                "latitude": 1.3765991,
+                "longitude": 103.85649838001632
+            },
+            "cuisine": [
+                "Indonesian",
+                "Noodles",
+                "Seafood"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.499,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6MTJ6TTNYUVCN/hero/08a5e2e399f74252b5803115b7431ef5_1717047924513963763.webp",
+            "has_promo": false,
+            "id": "4-C6MTJ6TTNYUVCN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "4637_Warung_Ramlah": {
+            "restaurant_name": "Warung Ramlah",
+            "latitude_longitude": {
+                "latitude": 1.37111,
+                "longitude": 103.8634
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Indonesian",
+                "Chinese"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.191,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3EBWEAERLL2NA/hero/aa9cdc1456c14bbaa84ccc2678681f9c_1648204076020327398.webp",
+            "has_promo": false,
+            "id": "4-C3EBWEAERLL2NA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Dessert_Bowl": {
+            "restaurant_name": "Dessert Bowl",
+            "latitude_longitude": {
+                "latitude": 1.364236,
+                "longitude": 103.865046
+            },
+            "cuisine": [
+                "Dessert"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.227,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2LDBB63CGKWLX/hero/76e182db5aca4806ba22d27cd9b4fb76_1614677825438773764.webp",
+            "has_promo": false,
+            "id": "4-C2LDBB63CGKWLX",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Tian_Jin_Fong_Kee": {
+            "restaurant_name": "Tian Jin Fong Kee",
+            "latitude_longitude": {
+                "latitude": 1.363311,
+                "longitude": 103.866905
+            },
+            "cuisine": [
+                "Chinese"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.556,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3KWNVNKCYNXE6/hero/8205e0a9-7188-48ab-af6c-b4bd93990656__store_cover__2024__03__21__12__58__58.webp",
+            "has_promo": false,
+            "id": "4-C3KWNVNKCYNXE6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Jia_Hao_Porridge": {
+            "restaurant_name": "Jia Hao Porridge",
+            "latitude_longitude": {
+                "latitude": 1.3681585095468876,
+                "longitude": 103.85657190251169
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Porridge"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.646,
+            "image_link": "https://food-cms.grab.com/compressed/merchants/4-CYLXGEVKDBUFGE/hero/75r-24bits-100kb-106cecd697056bd8068e83a053fb4feb7308798e58d2c0d438fc34acbb2048c8-50a2c437114f4a9fae68eaba5acef31e_1564023737158067349.jpeg",
+            "has_promo": false,
+            "id": "4-CYLXGEVKDBUFGE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Monday_Coffee_Bar": {
+            "restaurant_name": "Monday Coffee Bar",
+            "latitude_longitude": {
+                "latitude": 1.36515684708817,
+                "longitude": 103.85298855009
+            },
+            "cuisine": [
+                "Breakfast & Brunch",
+                "Coffee & Tea"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.054,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3CKDEXVEB3GCE/hero/610a36a1472743bfaaa8018222bc2b82_1645070431445973343.webp",
+            "has_promo": false,
+            "id": "4-C3CKDEXVEB3GCE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "4855_All_Bout_Chicken": {
+            "restaurant_name": "All Bout Chicken",
+            "latitude_longitude": {
+                "latitude": 1.364293,
+                "longitude": 103.866465
+            },
+            "cuisine": [
+                "Pasta",
+                "Snack",
+                "Drinks & Beverages",
+                "Bakery & Cake",
+                "Halal"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.27,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD08002/hero/2da6db6c40f84fd98202c479b1631ee5_1568627882071966889.webp",
+            "has_promo": false,
+            "id": "SGDD08002",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "6127_Carrot_Cubes": {
+            "restaurant_name": "Carrot Cubes",
+            "latitude_longitude": {
+                "latitude": 1.372512,
+                "longitude": 103.854653
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.92,
+            "image_link": "https://food-cms.grab.com/compressed/merchants/4-CYVAPGJYJYUWEN/hero/75r-24bits-100kb-0a9deb94cdcbe05846fc04134eabd50239efb246fe5ae319922019b8e06b7547-3bd80216b93a4ddeaa6c6e6657a0677c_1564109716479336512.jpeg",
+            "has_promo": false,
+            "id": "4-CYVAPGJYJYUWEN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_The_Axe_Western": {
+            "restaurant_name": "The Axe Western",
+            "latitude_longitude": {
+                "latitude": 1.362025,
+                "longitude": 103.855458
+            },
+            "cuisine": [
+                "Western",
+                "Pasta",
+                "Seafood"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.144,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3XTCTNJTECBBA/hero/9af759fc0c38483bae5bd701d8c16958_1669015481919238282.webp",
+            "has_promo": false,
+            "id": "4-C3XTCTNJTECBBA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "513_Gik_Gik_Heng_Prawn_Mee_Lor_Mee": {
+            "restaurant_name": "Gik Gik Heng Prawn Mee & Lor Mee",
+            "latitude_longitude": {
+                "latitude": 1.372679,
+                "longitude": 103.854439
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.052,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD00523/hero/upload-photo-Hero_Photo_85059b7cc4f64f33a2c01e25374fd4e9_1555061818382935192.webp",
+            "has_promo": false,
+            "id": "SGDD00523",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Pin_Fen_Economic_Bee_Hoon": {
+            "restaurant_name": "Pin Fen Economic Bee Hoon",
+            "latitude_longitude": {
+                "latitude": 1.36819185,
+                "longitude": 103.8565832
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.644,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDZDE6UGEDYT2/hero/19ce4bcaeb024a6386517998636e0fd7_1587619394926245294.webp",
+            "has_promo": false,
+            "id": "4-CZDZDE6UGEDYT2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Nagara_Thai": {
+            "restaurant_name": "Nagara Thai",
+            "latitude_longitude": {
+                "latitude": 1.3730594799754758,
+                "longitude": 103.8556386
+            },
+            "cuisine": [
+                "Thai",
+                "Fried Chicken",
+                "Seafood",
+                "Noodles",
+                "Dessert"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.836,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYWYTXKCC26EWA/hero/5f83cd109d8747ed8ae1c488f57dddf3_1608877101291452410.webp",
+            "has_promo": false,
+            "id": "4-CYWYTXKCC26EWA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Loklok_1991s_By_Daniel__Meng": {
+            "restaurant_name": "Loklok 1991's By Daniel & Meng",
+            "latitude_longitude": {
+                "latitude": 1.36456417,
+                "longitude": 103.8496777
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "BBQ & Grill",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.437,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZDWLF53ERCVFE/hero/b1438e2a30074630b5d46e7891e50c2a_1611900230047805144.webp",
+            "has_promo": false,
+            "id": "4-CZDWLF53ERCVFE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Zuzu_Kebab": {
+            "restaurant_name": "Zuzu Kebab",
+            "latitude_longitude": {
+                "latitude": 1.3632182770002,
+                "longitude": 103.8667901
+            },
+            "cuisine": [
+                "Middle Eastern",
+                "Local & Malaysian",
+                "Fried Chicken"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.545,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C34TSB3VJ2K2CX/hero/53d5dd96088d45448d3b0429e1bf0f26_1676965674632433833.webp",
+            "has_promo": false,
+            "id": "4-C34TSB3VJ2K2CX",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "6307_Plank_Sourdough_Pizza": {
+            "restaurant_name": "Plank Sourdough Pizza",
+            "latitude_longitude": {
+                "latitude": 1.364024,
+                "longitude": 103.864823
+            },
+            "cuisine": [
+                "Pizza",
+                "Alcohol",
+                "Fast Food"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.237,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C22ZVUVKWCMAVT/hero/64d5e32f695e48558e8825e27162c7b4_1631697921010569647.webp",
+            "has_promo": false,
+            "id": "4-C22ZVUVKWCMAVT",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_527_Fried_Carrot_Cake": {
+            "restaurant_name": "527 Fried Carrot Cake",
+            "latitude_longitude": {
+                "latitude": 1.3726106,
+                "longitude": 103.85465833333335
+            },
+            "cuisine": [
+                "Asian",
+                "Local",
+                "Chinese"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.924,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZCYR36CA4LZA2/hero/7f53855e25fe4166a4253d0e0717f7cd_1592298481363393731.webp",
+            "has_promo": false,
+            "id": "4-CZCYR36CA4LZA2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_La_Shi_Ni_Shuang_Shi_Ni_Mala": {
+            "restaurant_name": "La Shi Ni Shuang Shi Ni Mala",
+            "latitude_longitude": {
+                "latitude": 1.3738556050924804,
+                "longitude": 103.85455082939303
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Mala"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.015,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD11064/hero/79aeb127cc9b493787ee47ecc9c02767_1586480359841845349.webp",
+            "has_promo": false,
+            "id": "SGDD11064",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_kallang_wanton_noodle": {
+            "restaurant_name": "\u8001\u62db\u724c Kallang Wanton Noodle",
+            "latitude_longitude": {
+                "latitude": 1.363311,
+                "longitude": 103.866908
+            },
+            "cuisine": [
+                "Breakfast & Brunch",
+                "Chinese",
+                "Healthy",
+                "Hawker"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.556,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6J3JTJ3RNDDLA/hero/3d3c46e68b744482938c7bca12d55654_1711959672468275082.webp",
+            "has_promo": false,
+            "id": "4-C6J3JTJ3RNDDLA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Auntie_Jessie_Rojak": {
+            "restaurant_name": "Auntie Jessie Rojak",
+            "latitude_longitude": {
+                "latitude": 1.3728028107858308,
+                "longitude": 103.85543993244232
+            },
+            "cuisine": [
+                "BBQ & Grill",
+                "Snack",
+                "Local & Malaysian"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.888,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UGCYCDGT4JPA/hero/198be656-048e-45c7-a06b-4daf6613d987__store_cover__2023__09__20__09__33__03.webp",
+            "has_promo": false,
+            "id": "4-C2UGCYCDGT4JPA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Baohui_Teow_Chew_Fish_Soup": {
+            "restaurant_name": "Baohui Teow Chew Fish Soup",
+            "latitude_longitude": {
+                "latitude": 1.3727714060941594,
+                "longitude": 103.85455526359743
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles",
+                "Porridge"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.942,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6MEACMWC6DXKE/hero/8c415393-6c0a-4d25-952b-40688a4d1c59__store_cover__2024__05__23__10__20__05.webp",
+            "has_promo": false,
+            "id": "4-C6MEACMWC6DXKE",
+            "estimated_delivery_fee": null,
+            "promo_list": [
+                "Free item"
+            ]
+        },
+        "01_Qi_Shan_Carrot_Cake": {
+            "restaurant_name": "Qi Shan Carrot Cake",
+            "latitude_longitude": {
+                "latitude": 1.3728,
+                "longitude": 103.85446
+            },
+            "cuisine": [
+                "Hawker",
+                "Breakfast & Brunch",
+                "Chinese"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.04,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3JDHEWFEXTKL6/hero/68bb9554-ae19-4abe-bb5b-fcd4d03facef__store_cover__2023__05__26__13__15__59.webp",
+            "has_promo": false,
+            "id": "4-C3JDHEWFEXTKL6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Drinkies_Beer_Shop": {
+            "restaurant_name": "Drinkies (Beer Shop)",
+            "latitude_longitude": {
+                "latitude": 1.362540002,
+                "longitude": 103.85286
+            },
+            "cuisine": [
+                "Alcohol"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.32,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4E2EKLEHGBFJA/hero/19cf6aa598604f3585867494764f8f0b_1689843217625028184.webp",
+            "has_promo": true,
+            "id": "4-C4E2EKLEHGBFJA",
+            "estimated_delivery_fee": null,
+            "promo_list": [
+                "10% OFF PROMO!",
+                "10% off"
+            ]
+        },
+        "01_Monzen_Gardens": {
+            "restaurant_name": "Monzen@Gardens",
+            "latitude_longitude": {
+                "latitude": 1.36435,
+                "longitude": 103.86501
+            },
+            "cuisine": [
+                "Japanese",
+                "Sushi",
+                "Seafood"
+            ],
+            "rating": 3.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.236,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C34AJFNDR2VATN/hero/447e4ff564084b28ae7545ba08bd4a7c_1674041583891195464.webp",
+            "has_promo": true,
+            "id": "4-C34AJFNDR2VATN",
+            "estimated_delivery_fee": null,
+            "promo_list": [
+                "S$5 off Delivery"
+            ]
+        },
+        "01_Yu_Kee_House_of_Braised_Duck": {
+            "restaurant_name": "Yu Kee House of Braised Duck",
+            "latitude_longitude": {
+                "latitude": 1.3680461,
+                "longitude": 103.85609192222222
+            },
+            "cuisine": [
+                "Noodles",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.647,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CY4BMFVWG72EFA/hero/a3ab41f81bee40c9be2843d4ba68bb1a_1574217821484218394.webp",
+            "has_promo": false,
+            "id": "4-CY4BMFVWG72EFA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Lu_Ge_Wanton_Noodle": {
+            "restaurant_name": "Lu Ge Wanton Noodle",
+            "latitude_longitude": {
+                "latitude": 1.368178191,
+                "longitude": 103.8560832
+            },
+            "cuisine": [
+                "Chinese",
+                "Hawker",
+                "Local & Malaysian"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.64,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4EELT6DL8M2KA/hero/aad545c0c32042d48a3e0aeb827d29b4_1688454416302865000.webp",
+            "has_promo": false,
+            "id": "4-C4EELT6DL8M2KA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Garden_Youtiao": {
+            "restaurant_name": "Garden Youtiao",
+            "latitude_longitude": {
+                "latitude": 1.3632685034174945,
+                "longitude": 103.86664285
+            },
+            "cuisine": [
+                "Halal",
+                "Chinese"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.551,
+            "image_link": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CYMCJ7T1TA23WA/hero/75r-24bits-100kb-76678016f810f7b681e6fd8cae7832fe487eed22fa25fc5c275e616b601b6cb5-2ece7ffb9075466f9889c2540ee0950a_1563766438522757099.jpeg",
+            "has_promo": false,
+            "id": "4-CYMCJ7T1TA23WA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Bossi_Ban_Mian": {
+            "restaurant_name": "Bossi Ban Mian",
+            "latitude_longitude": {
+                "latitude": 1.3633107874173,
+                "longitude": 103.866908074274
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Noodles",
+                "Chinese"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.556,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3WHJ8NCKALULN/hero/01c711d5fe964c178c273de942a9a9e3_1666934452833514414.webp",
+            "has_promo": false,
+            "id": "4-C3WHJ8NCKALULN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Ah_Tas_Muffins": {
+            "restaurant_name": "Ah Tas Muffins",
+            "latitude_longitude": {
+                "latitude": 1.363356,
+                "longitude": 103.866699
+            },
+            "cuisine": [
+                "Halal",
+                "Bakery & Cake",
+                "Convenience",
+                "Breakfast & Brunch",
+                "Dessert"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.557,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2LFPF33G8KVSE/hero/b983f9e19ee0481a9c7c6b2ea0d80693_1614918553018108313.webp",
+            "has_promo": false,
+            "id": "4-C2LFPF33G8KVSE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "4903_Good_Luck_BBQ_Chicken_Wings": {
+            "restaurant_name": "Good Luck BBQ Chicken Wings",
+            "latitude_longitude": {
+                "latitude": 1.3642296250000001,
+                "longitude": 103.8664746
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "BBQ & Grill"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 2.245,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD08074/hero/GoodLuckBBQChickenWings_Hero_16x9.webp",
+            "has_promo": false,
+            "id": "SGDD08074",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Hong_Kong_Porridge__Curry_Pok": {
+            "restaurant_name": "Hong Kong Porridge / Curry Pok",
+            "latitude_longitude": {
+                "latitude": 1.37251395,
+                "longitude": 103.8545378
+            },
+            "cuisine": [
+                "Porridge",
+                "Snack",
+                "Chinese",
+                "Breakfast & Brunch"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.933,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3LHJJN3GYAUE2/hero/8bbd1ab0c8ae4f05997d464d2082f835_1654856234379777256.webp",
+            "has_promo": false,
+            "id": "4-C3LHJJN3GYAUE2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Julia_Bbq": {
+            "restaurant_name": "Julia Bbq",
+            "latitude_longitude": {
+                "latitude": 1.363239098373789,
+                "longitude": 103.86673867953056
+            },
+            "cuisine": [
+                "BBQ & Grill",
+                "Noodles",
+                "Local & Malaysian"
+            ],
+            "rating": 3,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.549,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYV1LYAVFE61MA/hero/c3e017be099a468aabbada7955ecc841_1568869010760124161.webp",
+            "has_promo": false,
+            "id": "4-CYV1LYAVFE61MA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Laderach_Chocolatier_Suiss": {
+            "restaurant_name": "L\u00e4derach Chocolatier Suiss",
+            "latitude_longitude": {
+                "latitude": 1.3604396328888408,
+                "longitude": 103.85680060206214
+            },
+            "cuisine": [
+                "Chocolate",
+                "Dessert",
+                "Gifts",
+                "Islandwide Delivery",
+                "Gourmet"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.13,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2WVVTBFRNNWME/hero/8d95679d-b56f-4142-b4ba-284ad40968a4__store_cover__2024__01__09__05__08__13.webp",
+            "has_promo": false,
+            "id": "4-C2WVVTBFRNNWME",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Tungsan": {
+            "restaurant_name": "Tungsan",
+            "latitude_longitude": {
+                "latitude": 1.3731409,
+                "longitude": 103.8577934
+            },
+            "cuisine": [
+                "Mart",
+                "Convenience",
+                "Grocery"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.944,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2AHUFMBDEJDN2/hero/9dfa3fe9307748c6aa8e0e37d3b8c1a3_1611567584024817700.webp",
+            "has_promo": false,
+            "id": "4-C2AHUFMBDEJDN2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Ms_Aiyu": {
+            "restaurant_name": "Ms Aiyu",
+            "latitude_longitude": {
+                "latitude": 1.362191,
+                "longitude": 103.85507
+            },
+            "cuisine": [
+                "Dessert",
+                "Chinese",
+                "Bubble Tea"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.123,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32JJLJKA6K3AX/hero/b4f7ee044d964bceab71c69ef6d7b020_1670842909159383070.webp",
+            "has_promo": false,
+            "id": "4-C32JJLJKA6K3AX",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_meadowbrew": {
+            "restaurant_name": "Meadowbrew",
+            "latitude_longitude": {
+                "latitude": 1.3738223406773074,
+                "longitude": 103.85499022046224
+            },
+            "cuisine": [
+                "Coffee & Tea",
+                "Kids Friendly",
+                "Drinks & Beverages"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.029,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6LTN6JHUGLDTA/hero/c137d8e6680c483aaf97c575709e4e44_1715138670611481666.webp",
+            "has_promo": false,
+            "id": "4-C6LTN6JHUGLDTA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "7047_Man_Yuan_Gourmet": {
+            "restaurant_name": "Man Yuan Gourmet",
+            "latitude_longitude": {
+                "latitude": 1.362933,
+                "longitude": 103.85556
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 3.9,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.904,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD12131/hero/eae017be78134730add86b5caba5c58b_1683535303657946566.webp",
+            "has_promo": false,
+            "id": "SGDD12131",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Kwang_Lee_Fishball_Mee": {
+            "restaurant_name": "Kwang Lee Fishball Mee",
+            "latitude_longitude": {
+                "latitude": 1.3711634321604977,
+                "longitude": 103.86337090796053
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Local & Malaysian"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.298,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UHAYNULBJDKE/hero/4fed8541df52480a94f7f1d3eb8152a4_1656227664638885446.webp",
+            "has_promo": false,
+            "id": "4-C2UHAYNULBJDKE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Siang_Hee_Seafood": {
+            "restaurant_name": "Siang Hee Seafood",
+            "latitude_longitude": {
+                "latitude": 1.3631828,
+                "longitude": 103.8667367
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 3.9,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.541,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CY21C8KCJ8DGTJ/hero/26ee7cdeae2341b18f2898a05ac9e516_1635839255388655133.webp",
+            "has_promo": false,
+            "id": "4-CY21C8KCJ8DGTJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_cafeiace": {
+            "restaurant_name": "Cafeiace",
+            "latitude_longitude": {
+                "latitude": 1.3765991,
+                "longitude": 103.85649838001632
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Burger",
+                "Noodles",
+                "Snack",
+                "Seafood"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.499,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4KJMA6GVTNEA2/hero/5b84e651-cfa0-405e-ad69-2ddf584ab09e__store_cover__2023__09__05__05__48__18.webp",
+            "has_promo": false,
+            "id": "4-C4KJMA6GVTNEA2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_sg_xiao_xian_rou": {
+            "restaurant_name": "SG Xiao Xian Rou",
+            "latitude_longitude": {
+                "latitude": 1.362739,
+                "longitude": 103.855664
+            },
+            "cuisine": [
+                "Groceries",
+                "Mart",
+                "Frozen Food",
+                "Fresh Produce",
+                "Alcohol"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.766,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6EVACKZEXW3RA/hero/a60038bedbe84318a3f59fdd85112d3f_1709204054402571295.webp",
+            "has_promo": false,
+            "id": "4-C6EVACKZEXW3RA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_FVFS": {
+            "restaurant_name": "FVFS",
+            "latitude_longitude": {
+                "latitude": 1.3652553763751882,
+                "longitude": 103.85299739082643
+            },
+            "cuisine": [
+                "Meat",
+                "Vegetarian Friendly",
+                "Groceries",
+                "Mart",
+                "Vegan"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.049,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZLXCPUCSFX1VT/hero/47c64955-3dc6-4a6a-b92d-6627a782334f__store_cover__2023__07__10__13__46__14.webp",
+            "has_promo": false,
+            "id": "4-CZLXCPUCSFX1VT",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Juice__SGM": {
+            "restaurant_name": "Juice @ SGM",
+            "latitude_longitude": {
+                "latitude": 1.363218277,
+                "longitude": 103.8667901
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Drinks & Beverages",
+                "Healthy"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.545,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UGECMCCNMZJA/hero/26d0ee1f8ac444c188044764d2a47392_1635586188617321137.webp",
+            "has_promo": false,
+            "id": "4-C2UGECMCCNMZJA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Western_Garage": {
+            "restaurant_name": "Western Garage",
+            "latitude_longitude": {
+                "latitude": 1.363218,
+                "longitude": 103.866791
+            },
+            "cuisine": [
+                "Pasta",
+                "Steak",
+                "Western",
+                "Hawker"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.545,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6MXAF2XMBBXA2/hero/6dc7d9aaedbc4173a3540a6e3d4241fd_1717403130133246433.webp",
+            "has_promo": false,
+            "id": "4-C6MXAF2XMBBXA2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Koh_Huat_Heng_Mini_Mart": {
+            "restaurant_name": "Koh Huat Heng Mini-Mart",
+            "latitude_longitude": {
+                "latitude": 1.367323938411836,
+                "longitude": 103.85883036326413
+            },
+            "cuisine": [
+                "Convenience",
+                "Mart"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 15,
+            "distance_from_delivery": 0.058626404086195974,
+            "image_link": null,
+            "has_promo": false,
+            "id": "4-C4JWUFMTL3BGG6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Bai_Jia_Yuan_Ban_Mian_Fish_Soup": {
+            "restaurant_name": "Bai Jia Yuan Ban Mian. Fish Soup",
+            "latitude_longitude": {
+                "latitude": 1.36823,
+                "longitude": 103.85636
+            },
+            "cuisine": [
+                "Noodles",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.557,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2WEETVGE6NZN2/hero/e87be04d9dcb4ffa9182f957971294ec_1629444527123489618.webp",
+            "has_promo": false,
+            "id": "4-C2WEETVGE6NZN2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Si_Ling_Shao_La": {
+            "restaurant_name": "Si Ling Shao La",
+            "latitude_longitude": {
+                "latitude": 1.368050033230879,
+                "longitude": 103.8562672
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Breakfast & Brunch"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.537,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2DTSFVDFGBWAJ/hero/bcffc40fc4824603a65cc13e8d04db50_1607079643413374878.webp",
+            "has_promo": false,
+            "id": "4-C2DTSFVDFGBWAJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Dou_Xiang_Cold_Soya_Bean_Curd": {
+            "restaurant_name": "Dou Xiang Cold Soya Bean Curd",
+            "latitude_longitude": {
+                "latitude": 1.3677253,
+                "longitude": 103.8559296
+            },
+            "cuisine": [
+                "Drinks & Beverages"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.702,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C34UN3DVARNVUE/hero/a4f9c917a20b4718b79324eadff419f8_1675166472153556036.webp",
+            "has_promo": false,
+            "id": "4-C34UN3DVARNVUE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Champion_Durian": {
+            "restaurant_name": "Champion Durian",
+            "latitude_longitude": {
+                "latitude": 1.3685079091704324,
+                "longitude": 103.8559490272508
+            },
+            "cuisine": [
+                "Durian",
+                "Groceries",
+                "Fruit",
+                "Mart"
+            ],
+            "rating": 3.1,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 0.664,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZLVDGLVBEJTN2/hero/609c6924614e489e97abdfeb77a3fce5_1595240138604752972.webp",
+            "has_promo": false,
+            "id": "4-CZLVDGLVBEJTN2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Sweet_Aroma": {
+            "restaurant_name": "Sweet Aroma",
+            "latitude_longitude": {
+                "latitude": 1.36626041667876,
+                "longitude": 103.855422051816
+            },
+            "cuisine": [
+                "Ice Cream",
+                "Dessert",
+                "Coffee & Tea"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.657,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3K3N2JBGTNTJA/hero/2266555e10ee4f0eb125afe59a700378_1654745266407261414.webp",
+            "has_promo": false,
+            "id": "4-C3K3N2JBGTNTJA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Byrd_Box_Fried_Chicken": {
+            "restaurant_name": "Byrd Box Fried Chicken & Fries \u5403\u9971\u9971\u70b8\u9e21",
+            "latitude_longitude": {
+                "latitude": 1.37074953,
+                "longitude": 103.85697
+            },
+            "cuisine": [
+                "Snack",
+                "Fried Chicken",
+                "Burger",
+                "Finger Food",
+                "Fast Food"
+            ],
+            "rating": 3.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.491,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3JKKAA2RU3YA6/hero/eacf59c6d3ff4b64bc1ee1a1c2c8eeb8_1693217208466337055.webp",
+            "has_promo": false,
+            "id": "4-C3JKKAA2RU3YA6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_PotatoLab_Fries_and_Chicken": {
+            "restaurant_name": "PotatoLab Fries and Chicken \u85af\u6765\u5b9d",
+            "latitude_longitude": {
+                "latitude": 1.370721126,
+                "longitude": 103.8568973
+            },
+            "cuisine": [
+                "Western",
+                "Fast Food",
+                "Snack",
+                "Local & Malaysian"
+            ],
+            "rating": 2.8,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.49,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C321VPB1EFJYCE/hero/20b7648cccd941448810e29730075d92_1693204181408424642.webp",
+            "has_promo": false,
+            "id": "4-C321VPB1EFJYCE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Pin_Ji_Fishball_Minced_Meat_Noodles": {
+            "restaurant_name": "Pin Ji Fishball Minced Meat Noodles",
+            "latitude_longitude": {
+                "latitude": 1.3705876322844768,
+                "longitude": 103.85646082857143
+            },
+            "cuisine": [
+                "Chinese"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 15,
+            "distance_from_delivery": 0.973,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2EWFGCWJK3TAX/hero/a9b58b4978144926ba704de518a5ddff_1612921066143752203.webp",
+            "has_promo": false,
+            "id": "4-C2EWFGCWJK3TAX",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Buey_Tahan_Cafeteria": {
+            "restaurant_name": "Buey Tahan Cafeteria",
+            "latitude_longitude": {
+                "latitude": 1.370897,
+                "longitude": 103.856238
+            },
+            "cuisine": [
+                "Noodles",
+                "Chinese",
+                "Halal"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.015,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2VKHE5FG7D3TN/hero/ff22ffaf-6f15-4dcf-97f9-f8fc358e46ed__store_cover__2023__10__23__03__24__17.webp",
+            "has_promo": false,
+            "id": "4-C2VKHE5FG7D3TN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Woon_Kee_Kway_Chap_Pork_Leg": {
+            "restaurant_name": "Woon Kee Kway Chap Pork Leg",
+            "latitude_longitude": {
+                "latitude": 1.37134,
+                "longitude": 103.85702
+            },
+            "cuisine": [
+                "Chinese"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.907,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4CJJAXANUTXBA/hero/fdadd4fe2ffa4c918c632385b0a0afcf_1684840349931444495.webp",
+            "has_promo": false,
+            "id": "4-C4CJJAXANUTXBA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Achq": {
+            "restaurant_name": "Achq",
+            "latitude_longitude": {
+                "latitude": 1.371159,
+                "longitude": 103.855758
+            },
+            "cuisine": [
+                "Dessert"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.948,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32JGYWJGCAYAE/hero/9014ebcd48904e279e2056a318fc8e15_1670835668392727813.webp",
+            "has_promo": false,
+            "id": "4-C32JGYWJGCAYAE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "5444_Tong_Fong_Fatt_Hainanese_Boneless_Chicken_Rice": {
+            "restaurant_name": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+            "latitude_longitude": {
+                "latitude": 1.3629260581902969,
+                "longitude": 103.85542941601824
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Zi Char"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.923,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD11558/hero/upload-photo-Hero_Photo_90e1fcf2165e4f1daa9d5e806a2fa5f2_1555051362114236711.webp",
+            "has_promo": false,
+            "id": "SGDD11558",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Chiangmai_Thai_Kitchen": {
+            "restaurant_name": "Chiangmai Thai Kitchen",
+            "latitude_longitude": {
+                "latitude": 1.3656324611111113,
+                "longitude": 103.8532397
+            },
+            "cuisine": [
+                "Thai",
+                "Fried Chicken",
+                "Salad",
+                "Noodles"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 70,
+            "distance_from_delivery": 1.06,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZJUTGDUMA3FEN/hero/6eaf039ea3fa4837b0198330863e7b95_1592988904174398047.webp",
+            "has_promo": false,
+            "id": "4-CZJUTGDUMA3FEN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Ng_Kuan_Chilli_Pan_Mee": {
+            "restaurant_name": "Ng Kuan Chilli Pan Mee",
+            "latitude_longitude": {
+                "latitude": 1.36563246111111,
+                "longitude": 103.8532397
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles",
+                "Seafood"
+            ],
+            "rating": 3.5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.06,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C36TFEV2VFLKJE/hero/8abaa4aa2dac43ba8ee1b9feeb5c2920_1679029259014284982.webp",
+            "has_promo": false,
+            "id": "4-C36TFEV2VFLKJE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Chiangmai_Thai": {
+            "restaurant_name": "Chiangmai Thai",
+            "latitude_longitude": {
+                "latitude": 1.365509196,
+                "longitude": 103.853168
+            },
+            "cuisine": [
+                "Fried Chicken",
+                "Thai",
+                "Noodles",
+                "BBQ & Grill",
+                "Convenience"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 0.918,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C33BGXW3KFUUE2/hero/ca49ba48b46e4039befa4bdc21f2aac9_1680328781436678106.webp",
+            "has_promo": false,
+            "id": "4-C33BGXW3KFUUE2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Bbcane": {
+            "restaurant_name": "Bbcane",
+            "latitude_longitude": {
+                "latitude": 1.3728762801590846,
+                "longitude": 103.85708419347644
+            },
+            "cuisine": [
+                "Drinks & Beverages",
+                "Bubble Tea",
+                "Coffee & Tea",
+                "Dessert"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.002,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3T1JBAVV74TME/hero/7152ab1cfa5948188d46e314618eb1a5_1661845458547332708.webp",
+            "has_promo": false,
+            "id": "4-C3T1JBAVV74TME",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Fs_Bros_Satay": {
+            "restaurant_name": "Fs Bros Satay",
+            "latitude_longitude": {
+                "latitude": 1.3723661989941853,
+                "longitude": 103.85556386759184
+            },
+            "cuisine": [
+                "Noodles",
+                "Snack",
+                "Local & Malaysian",
+                "Salad",
+                "BBQ & Grill"
+            ],
+            "rating": 3.8,
+            "estimate_time_of_delivery": 20,
+            "distance_from_delivery": 0.873,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2T3C66YCYEZL2/hero/7adfc94bcebf4036bb0df9c3ecb84ff9_1628147266025069947.webp",
+            "has_promo": false,
+            "id": "4-C2T3C66YCYEZL2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_sheng_kee_fishball_noodles": {
+            "restaurant_name": "Sheng Kee Fishball Noodles",
+            "latitude_longitude": {
+                "latitude": 1.3653957679312043,
+                "longitude": 103.8528922726502
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 2.5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.031,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4NJAZDCJNLFJT/hero/71f97e11561e4180ab0d36636870449c_1702262735139976386.webp",
+            "has_promo": false,
+            "id": "4-C4NJAZDCJNLFJT",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Winglicious": {
+            "restaurant_name": "Winglicious",
+            "latitude_longitude": {
+                "latitude": 1.36515684708817,
+                "longitude": 103.85298855009
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Fried Chicken",
+                "Salad"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.054,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3MFN7LZJ2CDBA/hero/9fe7310c88ba40ffb60f94570fb69194_1656567556594385644.webp",
+            "has_promo": false,
+            "id": "4-C3MFN7LZJ2CDBA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Chapayom_Singapore": {
+            "restaurant_name": "Chapayom Singapore",
+            "latitude_longitude": {
+                "latitude": 1.36225,
+                "longitude": 103.855693
+            },
+            "cuisine": [
+                "Bubble Tea",
+                "Drinks & Beverages",
+                "Coffee & Tea",
+                "Thai"
+            ],
+            "rating": 4.4,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.821,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3TBATDWA3LYJE/hero/20f00c1675024dc1acb1e630872b62fb_1660208906646629616.webp",
+            "has_promo": false,
+            "id": "4-C3TBATDWA3LYJE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_yin_hu_mala_pot": {
+            "restaurant_name": "\u94f6\u7cca\u9ebb\u8fa3\u9999\u9505 (Yin Hu Mala Pot)",
+            "latitude_longitude": {
+                "latitude": 1.362246,
+                "longitude": 103.855691
+            },
+            "cuisine": [
+                "Chinese",
+                "Seafood",
+                "Noodles"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.821,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6BTNLJCCTAACE/hero/26408083369f4b1095fd6d87b23a4b7a_1703228577439393145.webp",
+            "has_promo": false,
+            "id": "4-C6BTNLJCCTAACE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_AmPm_Cafe": {
+            "restaurant_name": "Am:Pm Cafe",
+            "latitude_longitude": {
+                "latitude": 1.372774,
+                "longitude": 103.855718
+            },
+            "cuisine": [
+                "Coffee & Tea",
+                "Ice Cream"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.9,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2T3JTW3MEX2AX/hero/59f9193bffad43c89132d1b29e1b47f9_1629855018750509992.webp",
+            "has_promo": false,
+            "id": "4-C2T3JTW3MEX2AX",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_healthy_af_bowls_by_heartbreak_melts": {
+            "restaurant_name": "Healthy AF Bowls By Heartbreak Melts",
+            "latitude_longitude": {
+                "latitude": 1.365095844151142,
+                "longitude": 103.85269015433852
+            },
+            "cuisine": [
+                "Breakfast & Brunch",
+                "Healthy",
+                "Porridge",
+                "Vegan",
+                "Local & Malaysian"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.087,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4N3L2L1NGBFL6/hero/fa2687e3-d5e6-42fa-af05-d2b474c6cb2a__store_cover__2023__11__15__07__14__01.webp",
+            "has_promo": false,
+            "id": "4-C4N3L2L1NGBFL6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Andys_Grills": {
+            "restaurant_name": "Andy's Grills",
+            "latitude_longitude": {
+                "latitude": 1.362022,
+                "longitude": 103.85545
+            },
+            "cuisine": [
+                "BBQ & Grill",
+                "Western",
+                "Salad"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 40,
+            "distance_from_delivery": 1.144,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4BUVUNDUGCBAJ/hero/252f9f2853dc445987199fceae2241c1_1683247976488363254.webp",
+            "has_promo": false,
+            "id": "4-C4BUVUNDUGCBAJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_JT_Vegetarian": {
+            "restaurant_name": "J&T Vegetarian",
+            "latitude_longitude": {
+                "latitude": 1.36202,
+                "longitude": 103.85545
+            },
+            "cuisine": [
+                "Vegetarian Friendly",
+                "Chinese"
+            ],
+            "rating": 4.9,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.144,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C222R6UFTJMFMA/hero/fbb420a1b47c4d5db037a957b89eca7b_1631877225949762841.webp",
+            "has_promo": false,
+            "id": "4-C222R6UFTJMFMA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "Blk 409 Ang Mo Kio Ave 10": {
+            "restaurant_name": null,
+            "latitude_longitude": {
+                "latitude": 1.362191,
+                "longitude": 103.85507
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Drinks & Beverages",
+                "Chinese",
+                "Western"
+            ],
+            "rating": 3,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.123,
+            "image_link": null,
+            "has_promo": false,
+            "id": "4-C4A1EYAZJFCKFE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Ah_Liang_Prawn_Noodle": {
+            "restaurant_name": "Ah Liang Prawn Noodle",
+            "latitude_longitude": {
+                "latitude": 1.36219,
+                "longitude": 103.85507
+            },
+            "cuisine": [
+                "Noodles",
+                "Local & Malaysian",
+                "Chinese"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.123,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2UGGA3CL4JXPE/hero/9a8b86a0928f4ab5add0ec899a6a9234_1622630322729501925.webp",
+            "has_promo": false,
+            "id": "4-C2UGGA3CL4JXPE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Hainan_Scissors_Curry_Rice": {
+            "restaurant_name": "Hainan Scissors Curry Rice \u6d77\u5357\u5496\u54e9\u526a\u5200\u98ef",
+            "latitude_longitude": {
+                "latitude": 1.372605667,
+                "longitude": 103.854675
+            },
+            "cuisine": [
+                "Chinese"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.965,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C25BNZCJJPXZLE/hero/d1e11ab107cf4e54938d832e206c0f2f_1636165848565608898.webp",
+            "has_promo": false,
+            "id": "4-C25BNZCJJPXZLE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Song_Kee_Fish_Ball_Noodle": {
+            "restaurant_name": "Song Kee Fish Ball Noodle",
+            "latitude_longitude": {
+                "latitude": 1.372581612,
+                "longitude": 103.8546277
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Chinese",
+                "Noodles"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 0.921,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C25FJBNZLKL2EN/hero/5a337a48d54b4c51a51594697db7162c_1636540596642455706.webp",
+            "has_promo": false,
+            "id": "4-C25FJBNZLKL2EN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Sergeant_Kids_Traditional_Hainanese_Chicken_Rice": {
+            "restaurant_name": "Sergeant Kids Traditional Hainanese Chicken Rice",
+            "latitude_longitude": {
+                "latitude": 1.368215,
+                "longitude": 103.8518169
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Fried Chicken",
+                "Chinese"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.069,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3W2SA6TDFCCFA/hero/64f1ca55a0994e9f8941a583f337e974_1667889024150567017.webp",
+            "has_promo": false,
+            "id": "4-C3W2SA6TDFCCFA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "2028_The_Sandwich_Guys": {
+            "restaurant_name": "The Sandwich Guys",
+            "latitude_longitude": {
+                "latitude": 1.362114,
+                "longitude": 103.854515
+            },
+            "cuisine": [
+                "Western",
+                "Burger",
+                "Snack",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 45,
+            "distance_from_delivery": 1.074,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/SGDD02119/hero/upload-photo-Hero_Photo_c33bec3f624b442c96eff5e2699f8f55_1556101823592204876.webp",
+            "has_promo": false,
+            "id": "SGDD02119",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_May_Teck_Coffee_Stall": {
+            "restaurant_name": "May Teck Coffee Stall",
+            "latitude_longitude": {
+                "latitude": 1.373068,
+                "longitude": 103.854831
+            },
+            "cuisine": [
+                "Coffee & Tea",
+                "Snack",
+                "Drinks & Beverages"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 0.924,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2VJPFJ1HEXVR6/hero/f46e2ce39df84bee8c89ec9328a8f70f_1632384578883695455.webp",
+            "has_promo": false,
+            "id": "4-C2VJPFJ1HEXVR6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Maharashtra_Bazaar": {
+            "restaurant_name": "Maharashtra Bazaar",
+            "latitude_longitude": {
+                "latitude": 1.360895777,
+                "longitude": 103.8568136
+            },
+            "cuisine": [
+                "Groceries",
+                "Mart",
+                "Snacks",
+                "Indian-mart"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.238,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZEUUEUCLFJGLJ/hero/7f6562ecbea24542a5897336ebf6a7dc_1639376603062214507.webp",
+            "has_promo": false,
+            "id": "4-CZEUUEUCLFJGLJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Ban_Mian": {
+            "restaurant_name": "Ban Mian \u5728\u89c1\u4e00\u9762",
+            "latitude_longitude": {
+                "latitude": 1.368131,
+                "longitude": 103.851486
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Hawker",
+                "Porridge"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.108,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4JTLZMWT7AWUE/hero/c36cd95c878742aca307fcbe614fb4c2_1695892234092020756.webp",
+            "has_promo": false,
+            "id": "4-C4JTLZMWT7AWUE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Nibbles": {
+            "restaurant_name": "Nibbles",
+            "latitude_longitude": {
+                "latitude": 1.371362419597915,
+                "longitude": 103.86418990343827
+            },
+            "cuisine": [
+                "Mart",
+                "Snack",
+                "Dessert",
+                "Drinks & Beverages"
+            ],
+            "rating": 4.3,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.259,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZMFG7TKJNVTVA/hero/3b730e14cfca4ad0b41976c7c317c6c6_1596552588303791572.webp",
+            "has_promo": false,
+            "id": "4-CZMFG7TKJNVTVA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_ap_mookata__thai_express": {
+            "restaurant_name": "AP Mookata & Thai Express",
+            "latitude_longitude": {
+                "latitude": 1.373331,
+                "longitude": 103.854382
+            },
+            "cuisine": [
+                "Noodles",
+                "Seafood",
+                "Thai"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.026,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6CTG7CKNLEBFA/hero/e78ebe29b3154e91a8d064dda0626bd4_1705038985853420808.webp",
+            "has_promo": false,
+            "id": "4-C6CTG7CKNLEBFA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Jing_Chen": {
+            "restaurant_name": "Jing Chen",
+            "latitude_longitude": {
+                "latitude": 1.373739,
+                "longitude": 103.854686
+            },
+            "cuisine": [
+                "Chinese",
+                "Seafood",
+                "Zi Char",
+                "Noodles",
+                "Local & Malaysian"
+            ],
+            "rating": 4.2,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.01,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4DXV8MDNANJUE/hero/6f6de87f-3d38-49a7-9188-63d1eb61c6f9__store_cover__2023__07__02__15__42__02.webp",
+            "has_promo": false,
+            "id": "4-C4DXV8MDNANJUE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Abc_Food_Court": {
+            "restaurant_name": "Abc Food Court",
+            "latitude_longitude": {
+                "latitude": 1.3737394,
+                "longitude": 103.8546855
+            },
+            "cuisine": [
+                "Indian",
+                "Local & Malaysian"
+            ],
+            "rating": 2.8,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.01,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4CKR4AUAXVBAE/hero/674cce9095ae45dab52ab0b34c09f582_1684976860172438078.webp",
+            "has_promo": false,
+            "id": "4-C4CKR4AUAXVBAE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Hong_Kee_Super_Soup": {
+            "restaurant_name": "Hong Kee Super Soup",
+            "latitude_longitude": {
+                "latitude": 1.36040313500651,
+                "longitude": 103.856754868713
+            },
+            "cuisine": [
+                "Healthy",
+                "Breakfast & Brunch",
+                "Hawker",
+                "Chinese"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.127,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32UVYWHTKLEAE/hero/386177b9f4414682932210e8452f58a9_1671195667973577056.webp",
+            "has_promo": false,
+            "id": "4-C32UVYWHTKLEAE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Monzen": {
+            "restaurant_name": "Monzen",
+            "latitude_longitude": {
+                "latitude": 1.364347,
+                "longitude": 103.865039
+            },
+            "cuisine": [
+                "Japanese",
+                "Sushi",
+                "Healthy"
+            ],
+            "rating": 4.6,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.222,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CZEVMBUCUBAZAJ/hero/af6db55249284746af5e36841991280e_1589258626853011077.webp",
+            "has_promo": false,
+            "id": "4-CZEVMBUCUBAZAJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_The_Coffee_Bean__Tea_Leaf": {
+            "restaurant_name": "The Coffee Bean & Tea Leaf",
+            "latitude_longitude": {
+                "latitude": 1.3648540780846488,
+                "longitude": 103.8654154
+            },
+            "cuisine": [
+                "Coffee & Tea",
+                "Breakfast & Brunch",
+                "Dessert",
+                "Halal"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.062,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-CYTKLXJJNKDURX/hero/9644115599bf4158a4bbe84adb0c37f7_1648777871093057300.webp",
+            "has_promo": false,
+            "id": "4-CYTKLXJJNKDURX",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_SG_Foodie": {
+            "restaurant_name": "SG Foodie",
+            "latitude_longitude": {
+                "latitude": 1.36406,
+                "longitude": 103.86515
+            },
+            "cuisine": [
+                "Alcohol",
+                "Local & Malaysian",
+                "Bento"
+            ],
+            "rating": 4.1,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.18,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3EWAYT3RJ6VG2/hero/36bd8c09a8ea484abe102e4b261ce36d_1649322835787856836.webp",
+            "has_promo": false,
+            "id": "4-C3EWAYT3RJ6VG2",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Big_Mouth_Mala_Hot_Pot": {
+            "restaurant_name": "Big Mouth Mala Hot Pot \u5927\u5634\u5df4\u9ebb\u8fa3\u9999\u9505",
+            "latitude_longitude": {
+                "latitude": 1.36499543,
+                "longitude": 103.86555
+            },
+            "cuisine": [
+                "Chinese",
+                "Mala",
+                "Local & Malaysian"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.05,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3WJKB2VN2UBV6/hero/4f4645ef31a64d98bb39bbe7e2f35121_1666853522876448037.webp",
+            "has_promo": false,
+            "id": "4-C3WJKB2VN2UBV6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Nasi_GoGo_Bos": {
+            "restaurant_name": "Nasi GoGo Bos!",
+            "latitude_longitude": {
+                "latitude": 1.3749358,
+                "longitude": 103.8603049
+            },
+            "cuisine": [
+                "Local & Malaysian",
+                "Malaysian",
+                "Mala"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.193,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3MFBFDGAXJAFA/hero/75398839d78346aaa8bf8709a8472cb6_1656509466117459816.webp",
+            "has_promo": false,
+            "id": "4-C3MFBFDGAXJAFA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Mee_Goreng_Hustle": {
+            "restaurant_name": "Mee Goreng Hustle",
+            "latitude_longitude": {
+                "latitude": 1.3749358,
+                "longitude": 103.8603049
+            },
+            "cuisine": [
+                "Indian",
+                "Seafood",
+                "Local & Malaysian"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.193,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3MFBFDFV6KGVA/hero/b9bd5c43a1db4812bdf983cd2601db2e_1656509465947385514.webp",
+            "has_promo": false,
+            "id": "4-C3MFBFDFV6KGVA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Jom_Jiak_Malay_Delights": {
+            "restaurant_name": "Jom Jiak Malay Delights",
+            "latitude_longitude": {
+                "latitude": 1.3749358,
+                "longitude": 103.8603049
+            },
+            "cuisine": [
+                "Asian",
+                "Local",
+                "Malaysian",
+                "Singaporean"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.193,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2TXCBAVFEWVCN/hero/9059f16c3b4a4e6f9d5886f9cb99d6d7_1621410412411596442.webp",
+            "has_promo": false,
+            "id": "4-C2TXCBAVFEWVCN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_JJ_Tea": {
+            "restaurant_name": "J&J Tea",
+            "latitude_longitude": {
+                "latitude": 1.373995,
+                "longitude": 103.854039
+            },
+            "cuisine": [
+                "Bubble Tea",
+                "Drinks & Beverages",
+                "Coffee & Tea"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.144,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C32CE8C1WB3TL6/hero/c3be225faaf1461092e9f659cc52568f_1673410738070509330.webp",
+            "has_promo": false,
+            "id": "4-C32CE8C1WB3TL6",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Machi_Machi": {
+            "restaurant_name": "Machi Machi",
+            "latitude_longitude": {
+                "latitude": 1.3646417202174064,
+                "longitude": 103.86565946639325
+            },
+            "cuisine": [
+                "Snack",
+                "Drinks & Beverages",
+                "Bubble Tea"
+            ],
+            "rating": 4.8,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 2.171,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2KDEE6WT6XCNN/hero/1bf006d0fe5047b08f803f0e7a37d4c6_1612327233976550477.webp",
+            "has_promo": false,
+            "id": "4-C2KDEE6WT6XCNN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_88_seoul_bbq": {
+            "restaurant_name": "88 Seoul Bbq",
+            "latitude_longitude": {
+                "latitude": 1.3640439661471504,
+                "longitude": 103.86552310979317
+            },
+            "cuisine": [
+                "Korean",
+                "Seafood",
+                "Noodles",
+                "Alcohol"
+            ],
+            "rating": 2.5,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 2.166,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6EUVYDGTCK3TN/hero/376ddecc949547049a0e559b4249a43b_1709203664631491008.webp",
+            "has_promo": false,
+            "id": "4-C6EUVYDGTCK3TN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Kota_Zheng_Zong_Bak_Kut_Teh": {
+            "restaurant_name": "Kota Zheng Zong  Bak Kut Teh",
+            "latitude_longitude": {
+                "latitude": 1.36400395278032,
+                "longitude": 103.8655419
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Seafood",
+                "Snack"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.161,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C33DBGD1RJN2AJ/hero/011546d895c44c22a4a448feba1e6ef8_1672377833635672394.webp",
+            "has_promo": false,
+            "id": "4-C33DBGD1RJN2AJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_3D2N_Thai_Food": {
+            "restaurant_name": "3D2N Thai Food",
+            "latitude_longitude": {
+                "latitude": 1.361775,
+                "longitude": 103.852085
+            },
+            "cuisine": [
+                "Thai",
+                "Food"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3L2ARDJL4N3GA/hero/e201ffcf-0e58-4ecc-8424-76d2f87268c9__store_cover__2023__07__30__05__01__40.webp",
+            "has_promo": false,
+            "id": "4-C3L2ARDJL4N3GA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_47_Kitchen_Taiwanese_Food__Snack": {
+            "restaurant_name": "47 Kitchen Taiwanese Food & Snack",
+            "latitude_longitude": {
+                "latitude": 1.361775,
+                "longitude": 103.852085
+            },
+            "cuisine": [
+                "Noodles",
+                "Snack",
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": 4.7,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3DVE6CUJGJDEN/hero/e321983b11114e2dbbe3aff8f8f5b04e_1671070310626743575.webp",
+            "has_promo": false,
+            "id": "4-C3DVE6CUJGJDEN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "02_Mian_Wang_1971": {
+            "restaurant_name": "Mian Wang 1971",
+            "latitude_longitude": {
+                "latitude": 1.36177524999692,
+                "longitude": 103.852084504011
+            },
+            "cuisine": [
+                "Chinese",
+                "Noodles",
+                "Local & Malaysian"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C4BZANMXEAMYUE/hero/62486965a05a4ea785306340b3a646be_1683608657134741344.webp",
+            "has_promo": false,
+            "id": "4-C4BZANMXEAMYUE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Yakiniku_Kura": {
+            "restaurant_name": "Yakiniku Kura",
+            "latitude_longitude": {
+                "latitude": 1.36177524999692,
+                "longitude": 103.852084504011
+            },
+            "cuisine": [
+                "Japanese",
+                "Western",
+                "Local & Malaysian",
+                "Drinks & Beverages"
+            ],
+            "rating": 4,
+            "estimate_time_of_delivery": 35,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3VHVU51CKLBJJ/hero/0b015135be874b7cb24b96f6fe187bcf_1664949232261859160.webp",
+            "has_promo": false,
+            "id": "4-C3VHVU51CKLBJJ",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Lo_Chan_Kee_Cantonese_Wanton_Noodles": {
+            "restaurant_name": "Lo Chan Kee Cantonese Wanton Noodles",
+            "latitude_longitude": {
+                "latitude": 1.36177524999692,
+                "longitude": 103.852084504011
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian",
+                "Noodles"
+            ],
+            "rating": 3.4,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C3J1JNDBNENZTE/hero/0a232e686400453688921ebeaf1d5e57_1651799533033710942.webp",
+            "has_promo": false,
+            "id": "4-C3J1JNDBNENZTE",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Peng_Wang_Cuisine": {
+            "restaurant_name": "Peng Wang Cuisine",
+            "latitude_longitude": {
+                "latitude": 1.36177524999692,
+                "longitude": 103.852084504011
+            },
+            "cuisine": [
+                "Chinese",
+                "Local & Malaysian"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C35KLRMYLA3FNA/hero/23e627b6b3d04501911d931023c138bc_1676953975619839689.webp",
+            "has_promo": false,
+            "id": "4-C35KLRMYLA3FNA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_BaoJiakFood": {
+            "restaurant_name": "BaoJiakFood",
+            "latitude_longitude": {
+                "latitude": 1.36177524999692,
+                "longitude": 103.852084504011
+            },
+            "cuisine": [
+                "Western"
+            ],
+            "rating": null,
+            "estimate_time_of_delivery": 65,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2NFNP63DA6XAN/hero/4da2506a6a014a449256796042afe1a5_1620878155780373962.webp",
+            "has_promo": false,
+            "id": "4-C2NFNP63DA6XAN",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_crispy_recipe_332": {
+            "restaurant_name": "Crispy Recipe 332",
+            "latitude_longitude": {
+                "latitude": 1.3617752499969242,
+                "longitude": 103.85208450401069
+            },
+            "cuisine": [
+                "Western",
+                "Fried Chicken",
+                "Pasta"
+            ],
+            "rating": 4.5,
+            "estimate_time_of_delivery": 30,
+            "distance_from_delivery": 1.509,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C6BFJCL3A7NGTA/hero/5d5057e61f82497bb492a6511d36b013_1705744542463461851.webp",
+            "has_promo": false,
+            "id": "4-C6BFJCL3A7NGTA",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        },
+        "01_Pasar_Malam_Specialities_Street_Food__Chomp_Chomp": {
+            "restaurant_name": "Pasar Malam Specialities Street Food @ Chomp Chomp",
+            "latitude_longitude": {
+                "latitude": 1.3643825341899,
+                "longitude": 103.866275982725
+            },
+            "cuisine": [
+                "Japanese",
+                "Local & Malaysian",
+                "Chinese"
+            ],
+            "rating": 5,
+            "estimate_time_of_delivery": 25,
+            "distance_from_delivery": 2.088,
+            "image_link": "https://food-cms.grab.com/compressed_webp/merchants/4-C2XCET5BSB2YME/hero/def99a4d18614a229b367e5cfb49ccc0_1628224361913439474.webp",
+            "has_promo": false,
+            "id": "4-C2XCET5BSB2YME",
+            "estimated_delivery_fee": null,
+            "promo_list": []
+        }
+    }
+}
